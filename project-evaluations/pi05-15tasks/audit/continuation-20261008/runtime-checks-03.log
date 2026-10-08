@@ -1,0 +1,35 @@
+Checking abstract parameter shapes
+[
+  {
+    "checkpoint": "checkpoint_10000",
+    "checkpoint_leaves": 75,
+    "local_leaves": 75,
+    "missing": [],
+    "extra": [],
+    "shape_mismatches": []
+  },
+  {
+    "checkpoint": "checkpoint_20000",
+    "checkpoint_leaves": 75,
+    "local_leaves": 75,
+    "missing": [],
+    "extra": [],
+    "shape_mismatches": []
+  },
+  {
+    "checkpoint": "checkpoint_30000",
+    "checkpoint_leaves": 75,
+    "local_leaves": 75,
+    "missing": [],
+    "extra": [],
+    "shape_mismatches": []
+  },
+  {
+    "checkpoint": "checkpoint_40000",
+    "checkpoint_leaves": 75,
+    "local_leaves": 75,
+    "missing": [],
+    "extra": [],
+    "shape_mismatches": []
+  }
+]

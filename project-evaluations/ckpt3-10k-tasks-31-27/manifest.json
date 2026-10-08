@@ -1,0 +1,43 @@
+{
+  "status": "installing",
+  "task_order": [
+    {
+      "id": 31,
+      "name": "clean_boxing_gloves"
+    },
+    {
+      "id": 27,
+      "name": "sorting_household_items"
+    }
+  ],
+  "model": "estjtmi/behavior-2026-five-winner-ckpt3-10k",
+  "model_revision": "674056b95708df9d7a9e47faef84c9187f5014d0",
+  "code_commit": "be82c0229384aeb4c64ac0eac1742ab71e4a3647",
+  "results_repository": "estjtmi/behavior-1k-solution",
+  "tmux_sessions": [
+    "behavior-eval",
+    "behavior-cli"
+  ],
+  "compatibility_note": "Checkpoint assets use behavior-1k/2026-challenge-demos; default code config uses IliaLarchenko/behavior_224_rgb. Resolve explicitly before serving.",
+  "evaluation_started": false,
+  "github_access_verified": true,
+  "simulator_repository": "https://github.com/StanfordVL/BEHAVIOR-1K",
+  "simulator_revision": "bd049de31",
+  "simulator_tag": "v3.9.3-post1",
+  "split": "public_test",
+  "instance_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "num_rollouts_per_instance": 1,
+  "seed": 0,
+  "protocol_note": "Official 2026 evaluation.md requests public indices 0-9 for reported results; 20 public instances exist."
+}

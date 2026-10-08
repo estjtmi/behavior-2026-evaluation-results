@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/continuation-20261008/check_assets.py", line 36, in <module>
+    assert tok.action_dim==22 and tok.time_horizon==30 and tok.vocab_size==1024
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError

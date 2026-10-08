@@ -1,0 +1,220 @@
+{
+  "scope": "Compatibility with available local code, not proof of training-run provenance",
+  "model_config": {
+    "action_dim": 32,
+    "action_horizon": 30,
+    "max_token_len": 200,
+    "dtype": "bfloat16",
+    "paligemma_variant": "gemma_2b",
+    "action_expert_variant": "gemma_300m",
+    "num_tasks": 50,
+    "task_embedding_dim": 2048,
+    "max_num_subtask_states": 15,
+    "task_data_path": "b1k/BEHAVIOR-1K/docs/challenge/task_data.json",
+    "use_correlated_noise": true,
+    "correlation_beta": 0.5,
+    "use_fast_auxiliary": true,
+    "fast_loss_weight": 0.05,
+    "fast_encoded_dims": "0:6,7:23",
+    "fast_vocab_size": 1024,
+    "max_fast_tokens": 200,
+    "fast_tokenizer_path": null,
+    "use_kv_transform": true,
+    "use_knowledge_insulation": false,
+    "subtask_loss_weight": 0.1,
+    "time_threshold_inpaint": 0.3,
+    "freeze_vision_backbone": true
+  },
+  "checkpoints": [
+    {
+      "checkpoint": "checkpoint_10000",
+      "norm_runtime_load": "pass",
+      "regularized_cholesky": "pass",
+      "tokenizer_runtime_roundtrip": "pass",
+      "synthetic_roundtrip_max_abs_error": 0.09073459572447934,
+      "token_count": 554,
+      "loaded_dimensions": {
+        "action_dim": null,
+        "time_horizon": null
+      },
+      "dimensions_cached_after_encoding": [
+        30,
+        22
+      ]
+    },
+    {
+      "checkpoint": "checkpoint_20000",
+      "norm_runtime_load": "pass",
+      "regularized_cholesky": "pass",
+      "tokenizer_runtime_roundtrip": "pass",
+      "synthetic_roundtrip_max_abs_error": 0.09073459572447934,
+      "token_count": 554,
+      "loaded_dimensions": {
+        "action_dim": null,
+        "time_horizon": null
+      },
+      "dimensions_cached_after_encoding": [
+        30,
+        22
+      ]
+    },
+    {
+      "checkpoint": "checkpoint_30000",
+      "norm_runtime_load": "pass",
+      "regularized_cholesky": "pass",
+      "tokenizer_runtime_roundtrip": "pass",
+      "synthetic_roundtrip_max_abs_error": 0.09073459572447934,
+      "token_count": 554,
+      "loaded_dimensions": {
+        "action_dim": null,
+        "time_horizon": null
+      },
+      "dimensions_cached_after_encoding": [
+        30,
+        22
+      ]
+    },
+    {
+      "checkpoint": "checkpoint_40000",
+      "norm_runtime_load": "pass",
+      "regularized_cholesky": "pass",
+      "tokenizer_runtime_roundtrip": "pass",
+      "synthetic_roundtrip_max_abs_error": 0.09073459572447934,
+      "token_count": 554,
+      "loaded_dimensions": {
+        "action_dim": null,
+        "time_horizon": null
+      },
+      "dimensions_cached_after_encoding": [
+        30,
+        22
+      ]
+    }
+  ],
+  "local_task_stage_checks": [
+    {
+      "task": 5,
+      "row": 5,
+      "stages": 12,
+      "stage_offset": 55
+    },
+    {
+      "task": 7,
+      "row": 7,
+      "stages": 15,
+      "stage_offset": 76
+    },
+    {
+      "task": 11,
+      "row": 11,
+      "stages": 13,
+      "stage_offset": 123
+    },
+    {
+      "task": 13,
+      "row": 13,
+      "stages": 15,
+      "stage_offset": 146
+    },
+    {
+      "task": 14,
+      "row": 14,
+      "stages": 15,
+      "stage_offset": 161
+    },
+    {
+      "task": 15,
+      "row": 15,
+      "stages": 15,
+      "stage_offset": 176
+    },
+    {
+      "task": 16,
+      "row": 16,
+      "stages": 15,
+      "stage_offset": 191
+    },
+    {
+      "task": 17,
+      "row": 17,
+      "stages": 11,
+      "stage_offset": 206
+    },
+    {
+      "task": 18,
+      "row": 18,
+      "stages": 13,
+      "stage_offset": 217
+    },
+    {
+      "task": 21,
+      "row": 21,
+      "stages": 15,
+      "stage_offset": 256
+    },
+    {
+      "task": 24,
+      "row": 24,
+      "stages": 15,
+      "stage_offset": 295
+    },
+    {
+      "task": 25,
+      "row": 25,
+      "stages": 15,
+      "stage_offset": 310
+    },
+    {
+      "task": 29,
+      "row": 29,
+      "stages": 15,
+      "stage_offset": 370
+    },
+    {
+      "task": 30,
+      "row": 30,
+      "stages": 11,
+      "stage_offset": 385
+    },
+    {
+      "task": 45,
+      "row": 45,
+      "stages": 11,
+      "stage_offset": 532
+    }
+  ],
+  "parameter_shape_comparisons": [
+    {
+      "checkpoint": "checkpoint_10000",
+      "checkpoint_leaves": 75,
+      "local_leaves": 75,
+      "missing": [],
+      "extra": [],
+      "shape_mismatches": []
+    },
+    {
+      "checkpoint": "checkpoint_20000",
+      "checkpoint_leaves": 75,
+      "local_leaves": 75,
+      "missing": [],
+      "extra": [],
+      "shape_mismatches": []
+    },
+    {
+      "checkpoint": "checkpoint_30000",
+      "checkpoint_leaves": 75,
+      "local_leaves": 75,
+      "missing": [],
+      "extra": [],
+      "shape_mismatches": []
+    },
+    {
+      "checkpoint": "checkpoint_40000",
+      "checkpoint_leaves": 75,
+      "local_leaves": 75,
+      "missing": [],
+      "extra": [],
+      "shape_mismatches": []
+    }
+  ]
+}

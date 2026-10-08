@@ -1,0 +1,69 @@
+INFO:2026-10-08 04:06:44,360:jax._src.xla_bridge:925: Unable to initialize backend 'rocm': module 'jaxlib.xla_extension' has no attribute 'GpuAllocatorConfig'
+INFO:jax._src.xla_bridge:Unable to initialize backend 'rocm': module 'jaxlib.xla_extension' has no attribute 'GpuAllocatorConfig'
+INFO:2026-10-08 04:06:44,361:jax._src.xla_bridge:925: Unable to initialize backend 'tpu': INTERNAL: Failed to open libtpu.so: libtpu.so: cannot open shared object file: No such file or directory
+INFO:jax._src.xla_bridge:Unable to initialize backend 'tpu': INTERNAL: Failed to open libtpu.so: libtpu.so: cannot open shared object file: No such file or directory
+INFO:absl:orbax-checkpoint version: 0.11.13
+INFO:absl:Created BasePyTreeCheckpointHandler: use_ocdbt=True, use_zarr3=False, pytree_metadata_options=PyTreeMetadataOptions(support_rich_types=False), array_metadata_store=<orbax.checkpoint._src.metadata.array_metadata_store.Store object at 0x7c8e49529710>
+INFO:absl:Restoring checkpoint from /workspace/checkpoints/pi05-15tasks/checkpoint_40000/params.
+INFO:absl:[thread=MainThread] Failed to get flag value for EXPERIMENTAL_ORBAX_USE_DISTRIBUTED_PROCESS_ID.
+INFO:absl:[process=0] /jax/checkpoint/read/bytes_per_sec: 525.7 MiB/s (total bytes: 6.3 GiB) (time elapsed: 12 seconds) (per-host)
+INFO:absl:Finished restoring checkpoint in 12.36 seconds from /workspace/checkpoints/pi05-15tasks/checkpoint_40000/params.
+INFO:b1k:FAST auxiliary enabled, vocab_size=1024
+INFO:root:Loaded norm stats from /workspace/checkpoints/pi05-15tasks/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb
+INFO:root:Loaded norm stats from /workspace/checkpoints/pi05-15tasks/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb
+INFO:root:Loaded norm stats from /workspace/checkpoints/pi05-15tasks/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb
+INFO:b1k:Successfully accessed correlation matrix via attribute access
+INFO:b1k:Applying shrinkage regularization with beta=0.50
+INFO:b1k:✓ Loaded correlation matrix with shape (960, 960) (beta=0.50 shrinkage applied)
+INFO:b1k:  Memory usage: 3.52 MB
+INFO:root:Loaded correlation matrix for inference
+INFO:omnigibson.learning.utils.network_utils:Starting websocket server on 127.0.0.1:8000...
+INFO:websockets.server:server listening on 127.0.0.1:8000
+INFO:websockets.server:HTTP response sent (200 OK)
+INFO:websockets.server:connection closed
+INFO:websockets.server:HTTP response sent (200 OK)
+INFO:websockets.server:connection closed
+INFO:websockets.server:connection open
+INFO:omnigibson.learning.utils.network_utils:Connection from ('127.0.0.1', 46782) opened
+INFO:b1k.shared.eval_b1k_wrapper:Policy reset - Task ID: None, Action horizon: 30
+INFO:root:2026 observation shapes: {'robot_r1::robot_r1:left_realsense_link:Camera:0::rgb': (224, 224, 4), 'robot_r1::robot_r1:right_realsense_link:Camera:0::rgb': (224, 224, 4), 'robot_r1::robot_r1:zed_link:Camera:0::rgb': (224, 224, 4), 'robot_r1::proprio': (256,), 'robot_r1::cam_rel_poses': (21,), 'task_id': (1,)}
+INFO:root:Evaluator task id=[5]; checkpoint task id=5
+INFO:b1k.shared.eval_b1k_wrapper:🔄 Task change detected: None → 5 (max stages: 12)
+ERROR:omnigibson.learning.utils.network_utils:Error in connection from ('127.0.0.1', 46782):
+Traceback (most recent call last):
+  File "/workspace/behavior-1k-solution/BEHAVIOR-1K/OmniGibson/omnigibson/learning/utils/network_utils.py", line 161, in _handler
+    action = self._policy.act(obs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/serve_checkpoint.py", line 47, in act
+    action = super().act(obs)
+             ^^^^^^^^^^^^^^^^
+  File "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/serve_checkpoint.py", line 59, in act
+    action = self.policy.act(obs)
+             ^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/behavior-1k-solution/src/b1k/shared/eval_b1k_wrapper.py", line 231, in act
+    output = self.policy.infer(model_input)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/serve_checkpoint.py", line 91, in checked_infer
+    raise ValueError(f'Non-finite model output: {key}')
+ValueError: Non-finite model output: subtask_logits
+
+INFO:websockets.server:connection closed
+ERROR:websockets.server:connection handler failed
+Traceback (most recent call last):
+  File "/workspace/policy-env/lib/python3.11/site-packages/websockets/asyncio/server.py", line 762, in protocol_handler
+    await handler(connection)
+  File "/workspace/behavior-1k-solution/BEHAVIOR-1K/OmniGibson/omnigibson/learning/utils/network_utils.py", line 161, in _handler
+    action = self._policy.act(obs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/serve_checkpoint.py", line 47, in act
+    action = super().act(obs)
+             ^^^^^^^^^^^^^^^^
+  File "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/serve_checkpoint.py", line 59, in act
+    action = self.policy.act(obs)
+             ^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/behavior-1k-solution/src/b1k/shared/eval_b1k_wrapper.py", line 231, in act
+    output = self.policy.infer(model_input)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/serve_checkpoint.py", line 91, in checked_infer
+    raise ValueError(f'Non-finite model output: {key}')
+ValueError: Non-finite model output: subtask_logits

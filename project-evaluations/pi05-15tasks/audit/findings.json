@@ -1,0 +1,472 @@
+{
+  "status": "blocked_on_training_provenance",
+  "repo": "estjtmi/behavior-2026-pi05-15tasks",
+  "revision": "479fd5240a5150d69903506d01c84cd77d25bbd2",
+  "local_code_commit": "e51bb51c44bc35bb5b47731523c626ec3d3ef221",
+  "mapping_in_available_code_and_data": [
+    {
+      "task_index": 5,
+      "task_name": "setting_mousetraps",
+      "embedding_row": 5
+    },
+    {
+      "task_index": 7,
+      "task_name": "picking_up_toys",
+      "embedding_row": 7
+    },
+    {
+      "task_index": 11,
+      "task_name": "putting_dishes_away_after_cleaning",
+      "embedding_row": 11
+    },
+    {
+      "task_index": 13,
+      "task_name": "loading_the_car",
+      "embedding_row": 13
+    },
+    {
+      "task_index": 14,
+      "task_name": "carrying_in_groceries",
+      "embedding_row": 14
+    },
+    {
+      "task_index": 15,
+      "task_name": "bringing_in_wood",
+      "embedding_row": 15
+    },
+    {
+      "task_index": 16,
+      "task_name": "moving_boxes_to_storage",
+      "embedding_row": 16
+    },
+    {
+      "task_index": 17,
+      "task_name": "bringing_water",
+      "embedding_row": 17
+    },
+    {
+      "task_index": 18,
+      "task_name": "tidying_bedroom",
+      "embedding_row": 18
+    },
+    {
+      "task_index": 21,
+      "task_name": "collecting_childrens_toys",
+      "embedding_row": 21
+    },
+    {
+      "task_index": 24,
+      "task_name": "storing_food",
+      "embedding_row": 24
+    },
+    {
+      "task_index": 25,
+      "task_name": "clearing_food_from_table_into_fridge",
+      "embedding_row": 25
+    },
+    {
+      "task_index": 29,
+      "task_name": "clean_up_your_desk",
+      "embedding_row": 29
+    },
+    {
+      "task_index": 30,
+      "task_name": "setting_the_fire",
+      "embedding_row": 30
+    },
+    {
+      "task_index": 45,
+      "task_name": "cook_hot_dogs",
+      "embedding_row": 45
+    }
+  ],
+  "mapping_verified_for_actual_training_run": false,
+  "checkpoint_checks": [
+    {
+      "checkpoint": "checkpoint_10000",
+      "norm_array_null_and_nonfinite_counts": {
+        "state": {
+          "mean": [
+            0,
+            0
+          ],
+          "std": [
+            0,
+            0
+          ],
+          "q01": [
+            0,
+            0
+          ],
+          "q99": [
+            0,
+            0
+          ]
+        },
+        "actions": {
+          "mean": [
+            0,
+            0
+          ],
+          "std": [
+            0,
+            0
+          ],
+          "q01": [
+            0,
+            0
+          ],
+          "q99": [
+            0,
+            0
+          ],
+          "per_timestamp_mean": [
+            0,
+            0
+          ],
+          "per_timestamp_std": [
+            0,
+            0
+          ],
+          "per_timestamp_q01": [
+            0,
+            0
+          ],
+          "per_timestamp_q99": [
+            0,
+            0
+          ],
+          "action_correlation_cholesky": [
+            0,
+            0
+          ],
+          "action_correlation_spatial": [
+            530,
+            0
+          ],
+          "action_correlation_temporal": [
+            0,
+            0
+          ]
+        }
+      },
+      "fast_metadata": {
+        "vocab_size": 1024,
+        "scale": 10.0,
+        "encoded_dims": "0:6,7:23",
+        "encoded_dim_ranges": [
+          [
+            0,
+            6
+          ],
+          [
+            7,
+            23
+          ]
+        ],
+        "total_encoded_dims": 22,
+        "action_horizon": 30,
+        "num_training_chunks": 5935465,
+        "compression_stats": {
+          "compression_ratio": 3.644254501482549,
+          "mean_token_length": 181.107,
+          "p99_token_length": 658.0,
+          "min_token_length": 35.0,
+          "max_token_length": 660.0
+        }
+      },
+      "custom_metadata": {}
+    },
+    {
+      "checkpoint": "checkpoint_20000",
+      "norm_array_null_and_nonfinite_counts": {
+        "state": {
+          "mean": [
+            0,
+            0
+          ],
+          "std": [
+            0,
+            0
+          ],
+          "q01": [
+            0,
+            0
+          ],
+          "q99": [
+            0,
+            0
+          ]
+        },
+        "actions": {
+          "mean": [
+            0,
+            0
+          ],
+          "std": [
+            0,
+            0
+          ],
+          "q01": [
+            0,
+            0
+          ],
+          "q99": [
+            0,
+            0
+          ],
+          "per_timestamp_mean": [
+            0,
+            0
+          ],
+          "per_timestamp_std": [
+            0,
+            0
+          ],
+          "per_timestamp_q01": [
+            0,
+            0
+          ],
+          "per_timestamp_q99": [
+            0,
+            0
+          ],
+          "action_correlation_cholesky": [
+            0,
+            0
+          ],
+          "action_correlation_spatial": [
+            530,
+            0
+          ],
+          "action_correlation_temporal": [
+            0,
+            0
+          ]
+        }
+      },
+      "fast_metadata": {
+        "vocab_size": 1024,
+        "scale": 10.0,
+        "encoded_dims": "0:6,7:23",
+        "encoded_dim_ranges": [
+          [
+            0,
+            6
+          ],
+          [
+            7,
+            23
+          ]
+        ],
+        "total_encoded_dims": 22,
+        "action_horizon": 30,
+        "num_training_chunks": 5935465,
+        "compression_stats": {
+          "compression_ratio": 3.644254501482549,
+          "mean_token_length": 181.107,
+          "p99_token_length": 658.0,
+          "min_token_length": 35.0,
+          "max_token_length": 660.0
+        }
+      },
+      "custom_metadata": {}
+    },
+    {
+      "checkpoint": "checkpoint_30000",
+      "norm_array_null_and_nonfinite_counts": {
+        "state": {
+          "mean": [
+            0,
+            0
+          ],
+          "std": [
+            0,
+            0
+          ],
+          "q01": [
+            0,
+            0
+          ],
+          "q99": [
+            0,
+            0
+          ]
+        },
+        "actions": {
+          "mean": [
+            0,
+            0
+          ],
+          "std": [
+            0,
+            0
+          ],
+          "q01": [
+            0,
+            0
+          ],
+          "q99": [
+            0,
+            0
+          ],
+          "per_timestamp_mean": [
+            0,
+            0
+          ],
+          "per_timestamp_std": [
+            0,
+            0
+          ],
+          "per_timestamp_q01": [
+            0,
+            0
+          ],
+          "per_timestamp_q99": [
+            0,
+            0
+          ],
+          "action_correlation_cholesky": [
+            0,
+            0
+          ],
+          "action_correlation_spatial": [
+            530,
+            0
+          ],
+          "action_correlation_temporal": [
+            0,
+            0
+          ]
+        }
+      },
+      "fast_metadata": {
+        "vocab_size": 1024,
+        "scale": 10.0,
+        "encoded_dims": "0:6,7:23",
+        "encoded_dim_ranges": [
+          [
+            0,
+            6
+          ],
+          [
+            7,
+            23
+          ]
+        ],
+        "total_encoded_dims": 22,
+        "action_horizon": 30,
+        "num_training_chunks": 5935465,
+        "compression_stats": {
+          "compression_ratio": 3.644254501482549,
+          "mean_token_length": 181.107,
+          "p99_token_length": 658.0,
+          "min_token_length": 35.0,
+          "max_token_length": 660.0
+        }
+      },
+      "custom_metadata": {}
+    },
+    {
+      "checkpoint": "checkpoint_40000",
+      "norm_array_null_and_nonfinite_counts": {
+        "state": {
+          "mean": [
+            0,
+            0
+          ],
+          "std": [
+            0,
+            0
+          ],
+          "q01": [
+            0,
+            0
+          ],
+          "q99": [
+            0,
+            0
+          ]
+        },
+        "actions": {
+          "mean": [
+            0,
+            0
+          ],
+          "std": [
+            0,
+            0
+          ],
+          "q01": [
+            0,
+            0
+          ],
+          "q99": [
+            0,
+            0
+          ],
+          "per_timestamp_mean": [
+            0,
+            0
+          ],
+          "per_timestamp_std": [
+            0,
+            0
+          ],
+          "per_timestamp_q01": [
+            0,
+            0
+          ],
+          "per_timestamp_q99": [
+            0,
+            0
+          ],
+          "action_correlation_cholesky": [
+            0,
+            0
+          ],
+          "action_correlation_spatial": [
+            530,
+            0
+          ],
+          "action_correlation_temporal": [
+            0,
+            0
+          ]
+        }
+      },
+      "fast_metadata": {
+        "vocab_size": 1024,
+        "scale": 10.0,
+        "encoded_dims": "0:6,7:23",
+        "encoded_dim_ranges": [
+          [
+            0,
+            6
+          ],
+          [
+            7,
+            23
+          ]
+        ],
+        "total_encoded_dims": 22,
+        "action_horizon": 30,
+        "num_training_chunks": 5935465,
+        "compression_stats": {
+          "compression_ratio": 3.644254501482549,
+          "mean_token_length": 181.107,
+          "p99_token_length": 658.0,
+          "min_token_length": 35.0,
+          "max_token_length": 660.0
+        }
+      },
+      "custom_metadata": {}
+    }
+  ],
+  "missing": [
+    "Training-run config/code provenance establishing dataset mapping and non-shape settings",
+    "Designated checkpoint step (10000, 20000, 30000, 40000 available)"
+  ],
+  "rollouts_launched": 0,
+  "evaluation_outputs_modified": false
+}

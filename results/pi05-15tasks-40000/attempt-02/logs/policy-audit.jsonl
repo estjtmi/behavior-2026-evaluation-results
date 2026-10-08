@@ -1,0 +1,23 @@
+{"time": 1791432809.033186, "event": "loading", "checkpoint": "/workspace/checkpoints/pi05-15tasks/checkpoint_40000", "config": "pi_behavior_b1k_fast", "historical_training_config": "UNRECOVERABLE", "asset_id": "IliaLarchenko/behavior_224_rgb"}
+{"time": 1791432826.9293597, "event": "loaded", "checkpoint": "/workspace/checkpoints/pi05-15tasks/checkpoint_40000", "tasks": [5, 7, 11, 13, 14, 15, 16, 17, 18, 21, 24, 25, 29, 30, 45]}
+{"time": 1791432935.353089, "event": "rollout_boundary", "task_id": null, "finite_action_count": 0}
+{"time": 1791432936.1348372, "event": "model_input", "task_id": 5, "embedding_row": 5, "stage": 0, "task_stage_row": 55}
+{"time": 1791432982.1637397, "event": "finite_actions", "task_id": 5, "count": 1, "action_min": -1.4490593671798706, "action_max": 1.0250544548034668}
+{"time": 1791432986.3299055, "event": "model_input", "task_id": 5, "embedding_row": 5, "stage": 0, "task_stage_row": 55}
+{"time": 1791433008.687157, "event": "model_input", "task_id": 5, "embedding_row": 5, "stage": 0, "task_stage_row": 55}
+{"time": 1791433012.7866454, "event": "model_input", "task_id": 5, "embedding_row": 5, "stage": 0, "task_stage_row": 55}
+{"time": 1791433016.887556, "event": "model_input", "task_id": 5, "embedding_row": 5, "stage": 0, "task_stage_row": 55}
+{"time": 1791433020.7197495, "event": "finite_actions", "task_id": 5, "count": 100, "action_min": -1.491822361946106, "action_max": 1.0488289594650269}
+{"time": 1791433020.9862802, "event": "model_input", "task_id": 5, "embedding_row": 5, "stage": 0, "task_stage_row": 55}
+{"time": 1791433025.0867224, "event": "model_input", "task_id": 5, "embedding_row": 5, "stage": 0, "task_stage_row": 55}
+{"time": 1791433029.1835396, "event": "model_input", "task_id": 5, "embedding_row": 5, "stage": 0, "task_stage_row": 55}
+{"time": 1791433033.2871206, "event": "model_input", "task_id": 5, "embedding_row": 5, "stage": 0, "task_stage_row": 55}
+{"time": 1791433037.3869298, "event": "model_input", "task_id": 5, "embedding_row": 5, "stage": 0, "task_stage_row": 55}
+{"time": 1791433041.1983275, "event": "finite_actions", "task_id": 5, "count": 200, "action_min": -1.5940665006637573, "action_max": 1.1033464670181274}
+{"time": 1791433041.4869635, "event": "model_input", "task_id": 5, "embedding_row": 5, "stage": 0, "task_stage_row": 55}
+{"time": 1791433045.5830538, "event": "model_input", "task_id": 5, "embedding_row": 5, "stage": 0, "task_stage_row": 55}
+{"time": 1791433049.686183, "event": "model_input", "task_id": 5, "embedding_row": 5, "stage": 0, "task_stage_row": 55}
+{"time": 1791433053.7868667, "event": "model_input", "task_id": 5, "embedding_row": 5, "stage": 0, "task_stage_row": 55}
+{"time": 1791433057.8862598, "event": "model_input", "task_id": 5, "embedding_row": 5, "stage": 0, "task_stage_row": 55}
+{"time": 1791433061.709483, "event": "finite_actions", "task_id": 5, "count": 300, "action_min": -1.5997916460037231, "action_max": 1.10714590549469}
+{"time": 1791433061.988074, "event": "model_input", "task_id": 5, "embedding_row": 5, "stage": 0, "task_stage_row": 55}

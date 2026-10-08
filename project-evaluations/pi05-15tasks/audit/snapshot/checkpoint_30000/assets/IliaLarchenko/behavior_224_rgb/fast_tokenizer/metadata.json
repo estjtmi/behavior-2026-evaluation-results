@@ -1,0 +1,25 @@
+{
+  "vocab_size": 1024,
+  "scale": 10.0,
+  "encoded_dims": "0:6,7:23",
+  "encoded_dim_ranges": [
+    [
+      0,
+      6
+    ],
+    [
+      7,
+      23
+    ]
+  ],
+  "total_encoded_dims": 22,
+  "action_horizon": 30,
+  "num_training_chunks": 5935465,
+  "compression_stats": {
+    "compression_ratio": 3.644254501482549,
+    "mean_token_length": 181.107,
+    "p99_token_length": 658.0,
+    "min_token_length": 35.0,
+    "max_token_length": 660.0
+  }
+}

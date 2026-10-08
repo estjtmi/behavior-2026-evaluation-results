@@ -1,0 +1,131 @@
+{
+  "checkpoint_repo": "estjtmi/behavior-2026-pi05-15tasks",
+  "revision": "479fd5240a5150d69903506d01c84cd77d25bbd2",
+  "checkpoint": "checkpoint_40000",
+  "historical_training_config": "UNRECOVERABLE",
+  "authorization": "User explicitly authorized verified local pi_behavior_b1k_fast inference path and bundled assets despite unrecoverable historical configuration.",
+  "policy_config": "pi_behavior_b1k_fast",
+  "policy_weights_shared_across_tasks": true,
+  "task_mapping": [
+    {
+      "task_index": 5,
+      "task_name": "setting_mousetraps",
+      "evaluator_task_id": 5,
+      "embedding_row": 5
+    },
+    {
+      "task_index": 7,
+      "task_name": "picking_up_toys",
+      "evaluator_task_id": 7,
+      "embedding_row": 7
+    },
+    {
+      "task_index": 11,
+      "task_name": "putting_dishes_away_after_cleaning",
+      "evaluator_task_id": 11,
+      "embedding_row": 11
+    },
+    {
+      "task_index": 13,
+      "task_name": "loading_the_car",
+      "evaluator_task_id": 13,
+      "embedding_row": 13
+    },
+    {
+      "task_index": 14,
+      "task_name": "carrying_in_groceries",
+      "evaluator_task_id": 14,
+      "embedding_row": 14
+    },
+    {
+      "task_index": 15,
+      "task_name": "bringing_in_wood",
+      "evaluator_task_id": 15,
+      "embedding_row": 15
+    },
+    {
+      "task_index": 16,
+      "task_name": "moving_boxes_to_storage",
+      "evaluator_task_id": 16,
+      "embedding_row": 16
+    },
+    {
+      "task_index": 17,
+      "task_name": "bringing_water",
+      "evaluator_task_id": 17,
+      "embedding_row": 17
+    },
+    {
+      "task_index": 18,
+      "task_name": "tidying_bedroom",
+      "evaluator_task_id": 18,
+      "embedding_row": 18
+    },
+    {
+      "task_index": 21,
+      "task_name": "collecting_childrens_toys",
+      "evaluator_task_id": 21,
+      "embedding_row": 21
+    },
+    {
+      "task_index": 24,
+      "task_name": "storing_food",
+      "evaluator_task_id": 24,
+      "embedding_row": 24
+    },
+    {
+      "task_index": 25,
+      "task_name": "clearing_food_from_table_into_fridge",
+      "evaluator_task_id": 25,
+      "embedding_row": 25
+    },
+    {
+      "task_index": 29,
+      "task_name": "clean_up_your_desk",
+      "evaluator_task_id": 29,
+      "embedding_row": 29
+    },
+    {
+      "task_index": 30,
+      "task_name": "setting_the_fire",
+      "evaluator_task_id": 30,
+      "embedding_row": 30
+    },
+    {
+      "task_index": 45,
+      "task_name": "cook_hot_dogs",
+      "evaluator_task_id": 45,
+      "embedding_row": 45
+    }
+  ],
+  "validation": {
+    "task": 5,
+    "public_index": 10,
+    "instance_id": 311,
+    "max_steps": 300,
+    "scored": false
+  },
+  "evaluation": {
+    "public_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "rollouts_per_instance": 1,
+    "num_envs": 1,
+    "sequential": true,
+    "max_steps": null,
+    "wrapper": "omnigibson.eval.wrappers.DefaultWrapper",
+    "seed": 0,
+    "write_video": true
+  },
+  "evaluator_commit": "bd049de3119acdcdf2334fe9e1ebe060fa20c108",
+  "task_table_sha256": "f1533487a09b860150b2ec03ea36d1a0ad5962b0e1292ab28c1fd30ff276f837"
+}

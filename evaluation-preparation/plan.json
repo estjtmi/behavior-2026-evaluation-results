@@ -1,0 +1,23 @@
+{
+  "status": "awaiting_github_token_before_evaluation",
+  "task_order": [
+    {
+      "id": 31,
+      "name": "clean_boxing_gloves"
+    },
+    {
+      "id": 27,
+      "name": "sorting_household_items"
+    }
+  ],
+  "model": "estjtmi/behavior-2026-five-winner-ckpt3-10k",
+  "model_revision": "674056b95708df9d7a9e47faef84c9187f5014d0",
+  "code_commit": "be82c0229384aeb4c64ac0eac1742ab71e4a3647",
+  "results_repository": "estjtmi/behavior-1k-solution",
+  "tmux_sessions": [
+    "behavior-eval",
+    "behavior-cli"
+  ],
+  "compatibility_note": "Checkpoint assets use behavior-1k/2026-challenge-demos; default code config uses IliaLarchenko/behavior_224_rgb. Resolve explicitly before serving.",
+  "evaluation_started": false
+}

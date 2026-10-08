@@ -1,0 +1,466 @@
+{
+  "state": "not_launched_pending_training_config_verification",
+  "requested_policy_count": 1,
+  "checkpoint_candidates": [
+    10000,
+    20000,
+    30000,
+    40000
+  ],
+  "latest_uploaded_checkpoint": 40000,
+  "checkpoint_selected_for_evaluation": null,
+  "validation": "One clean rollout before first task only; additional validation only for a new issue. Separate fresh output directory; do not use a scored public instance for this prerequisite.",
+  "tasks": [
+    {
+      "task_index": 5,
+      "task_name": "setting_mousetraps",
+      "public_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "resolved_instance_ids": [
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310
+      ],
+      "rollouts_per_instance": 1,
+      "completed_results_found": false
+    },
+    {
+      "task_index": 7,
+      "task_name": "picking_up_toys",
+      "public_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "resolved_instance_ids": [
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310
+      ],
+      "rollouts_per_instance": 1,
+      "completed_results_found": false
+    },
+    {
+      "task_index": 11,
+      "task_name": "putting_dishes_away_after_cleaning",
+      "public_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "resolved_instance_ids": [
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310
+      ],
+      "rollouts_per_instance": 1,
+      "completed_results_found": false
+    },
+    {
+      "task_index": 13,
+      "task_name": "loading_the_car",
+      "public_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "resolved_instance_ids": [
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310
+      ],
+      "rollouts_per_instance": 1,
+      "completed_results_found": false
+    },
+    {
+      "task_index": 14,
+      "task_name": "carrying_in_groceries",
+      "public_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "resolved_instance_ids": [
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310
+      ],
+      "rollouts_per_instance": 1,
+      "completed_results_found": false
+    },
+    {
+      "task_index": 15,
+      "task_name": "bringing_in_wood",
+      "public_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "resolved_instance_ids": [
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310
+      ],
+      "rollouts_per_instance": 1,
+      "completed_results_found": false
+    },
+    {
+      "task_index": 16,
+      "task_name": "moving_boxes_to_storage",
+      "public_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "resolved_instance_ids": [
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310
+      ],
+      "rollouts_per_instance": 1,
+      "completed_results_found": false
+    },
+    {
+      "task_index": 17,
+      "task_name": "bringing_water",
+      "public_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "resolved_instance_ids": [
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310
+      ],
+      "rollouts_per_instance": 1,
+      "completed_results_found": false
+    },
+    {
+      "task_index": 18,
+      "task_name": "tidying_bedroom",
+      "public_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "resolved_instance_ids": [
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310
+      ],
+      "rollouts_per_instance": 1,
+      "completed_results_found": false
+    },
+    {
+      "task_index": 21,
+      "task_name": "collecting_childrens_toys",
+      "public_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "resolved_instance_ids": [
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310
+      ],
+      "rollouts_per_instance": 1,
+      "completed_results_found": false
+    },
+    {
+      "task_index": 24,
+      "task_name": "storing_food",
+      "public_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "resolved_instance_ids": [
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310
+      ],
+      "rollouts_per_instance": 1,
+      "completed_results_found": false
+    },
+    {
+      "task_index": 25,
+      "task_name": "clearing_food_from_table_into_fridge",
+      "public_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "resolved_instance_ids": [
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310
+      ],
+      "rollouts_per_instance": 1,
+      "completed_results_found": false
+    },
+    {
+      "task_index": 29,
+      "task_name": "clean_up_your_desk",
+      "public_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "resolved_instance_ids": [
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310
+      ],
+      "rollouts_per_instance": 1,
+      "completed_results_found": false
+    },
+    {
+      "task_index": 30,
+      "task_name": "setting_the_fire",
+      "public_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "resolved_instance_ids": [
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310
+      ],
+      "rollouts_per_instance": 1,
+      "completed_results_found": false
+    },
+    {
+      "task_index": 45,
+      "task_name": "cook_hot_dogs",
+      "public_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "resolved_instance_ids": [
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310
+      ],
+      "rollouts_per_instance": 1,
+      "completed_results_found": false
+    }
+  ],
+  "skip_rule": "Never launch an instance if any completed result is found; reserve a fresh output directory atomically and refuse overwrite even for incomplete attempts."
+}

@@ -1,0 +1,17 @@
+{"time": "2026-10-08T04:06:34Z", "event": "starting_shared_policy", "checkpoint": "/workspace/checkpoints/pi05-15tasks/checkpoint_40000"}
+{"time": "2026-10-08T04:07:04Z", "event": "policy_ready", "pid": 85483}
+{"time": "2026-10-08T04:07:04Z", "event": "rollout_start", "task": 5, "index": 10, "validation": true, "output": "/workspace/evaluation-results/pi05-15tasks-40000/validation/task-5-public-index-10"}
+{"time": "2026-10-08T04:10:19Z", "event": "stopped", "reason": "RuntimeError('Expected one JSON in /workspace/evaluation-results/pi05-15tasks-40000/validation/task-5-public-index-10, found 0')"}
+Traceback (most recent call last):
+  File "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/run_sequential.py", line 123, in <module>
+    try:main()
+        ^^^^^^
+  File "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/run_sequential.py", line 94, in main
+    exclusive_run(5,10,validation,validation=True)
+  File "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/run_sequential.py", line 60, in exclusive_run
+    result,j,v=verify_result(directory,task,index)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/run_sequential.py", line 33, in verify_result
+    if len(files)!=1:raise RuntimeError(f'Expected one JSON in {directory}, found {len(files)}')
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Expected one JSON in /workspace/evaluation-results/pi05-15tasks-40000/validation/task-5-public-index-10, found 0

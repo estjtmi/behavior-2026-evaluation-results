@@ -1,0 +1,4 @@
+{"time": 1791432404.0895507, "event": "loading", "checkpoint": "/workspace/checkpoints/pi05-15tasks/checkpoint_40000", "config": "pi_behavior_b1k_fast", "historical_training_config": "UNRECOVERABLE", "asset_id": "IliaLarchenko/behavior_224_rgb"}
+{"time": 1791432421.8954632, "event": "loaded", "checkpoint": "/workspace/checkpoints/pi05-15tasks/checkpoint_40000", "tasks": [5, 7, 11, 13, 14, 15, 16, 17, 18, 21, 24, 25, 29, 30, 45]}
+{"time": 1791432568.163252, "event": "rollout_boundary", "task_id": null, "finite_action_count": 0}
+{"time": 1791432568.4790115, "event": "model_input", "task_id": 5, "embedding_row": 5, "stage": 0, "task_stage_row": 55}

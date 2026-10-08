@@ -1,0 +1,80 @@
+Using Python 3.11.13 environment at: behavior2026-env
+Audited 2 packages in 12ms
+2026 simulator imports and asset key ready
+Policy imports ready
+2026-10-05T01:07:00Z Starting task=31 name=clean_boxing_gloves public_index=0
+/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/run_sequential.sh: line 29: 12058 Segmentation fault      (core dumped) /workspace/behavior2026-env/bin/python -m omnigibson.eval.eval --task-name "$task_name" --mode public_test --instance-indices "$instance" --num-envs 1 --num-rollouts 1 --host 127.0.0.1 --port 8000 --env-wrapper omnigibson.eval.wrappers.RGBDFullResWrapper --output-dir "$OUTPUT/$task_name/instance-$instance" --write-video > "$OUTPUT/logs/eval-$task_id-$instance.log" 2>&1
+[eval/ckpt3-10k-tasks-31-27-20261005 7779aaa] Record evaluation progress and available episode metrics
+ 2 files changed, 19 insertions(+)
+ create mode 100644 evaluations/ckpt3-10k-tasks-31-27/status.json
+ create mode 100644 evaluations/ckpt3-10k-tasks-31-27/summary.json
+remote: Permission to estjtmi/behavior-1k-solution.git denied to estjtmi.
+fatal: unable to access 'https://github.com/estjtmi/behavior-1k-solution.git/': The requested URL returned error: 403
+GitHub push exit: 128
+Using Python 3.11.13 environment at: behavior2026-env
+Audited 3 packages in 11ms
+2026 simulator imports and asset key ready
+Policy imports ready
+2026-10-05T02:54:44Z Starting task=31 name=clean_boxing_gloves public_index=0
+2026-10-05T03:01:03Z Completed task=31 public_index=0
+2026-10-05T03:01:03Z Starting task=31 name=clean_boxing_gloves public_index=1
+Using Python 3.11.13 environment at: /workspace/behavior2026-env
+Audited 3 packages in 11ms
+2026 simulator imports and asset key ready
+Policy imports ready
+2026-10-05T03:07:11Z Starting task=31 name=clean_boxing_gloves public_index=0
+2026-10-05T04:07:33Z Completed task=31 public_index=0
+2026-10-05T04:07:33Z Starting task=31 name=clean_boxing_gloves public_index=1
+2026-10-05T04:59:41Z Completed task=31 public_index=1
+2026-10-05T04:59:41Z Starting task=31 name=clean_boxing_gloves public_index=2
+2026-10-05T05:58:34Z Completed task=31 public_index=2
+2026-10-05T05:58:34Z Starting task=31 name=clean_boxing_gloves public_index=3
+2026-10-05T06:58:38Z Completed task=31 public_index=3
+2026-10-05T06:58:38Z Starting task=31 name=clean_boxing_gloves public_index=4
+2026-10-05T07:57:33Z Completed task=31 public_index=4
+2026-10-05T07:57:33Z Starting task=31 name=clean_boxing_gloves public_index=5
+2026-10-05T08:31:24Z Completed task=31 public_index=5
+2026-10-05T08:31:24Z Starting task=31 name=clean_boxing_gloves public_index=6
+2026-10-05T09:27:28Z Completed task=31 public_index=6
+2026-10-05T09:27:28Z Starting task=31 name=clean_boxing_gloves public_index=7
+2026-10-05T10:15:00Z Completed task=31 public_index=7
+2026-10-05T10:15:00Z Starting task=31 name=clean_boxing_gloves public_index=8
+2026-10-05T11:04:46Z Completed task=31 public_index=8
+2026-10-05T11:04:46Z Starting task=31 name=clean_boxing_gloves public_index=9
+2026-10-05T11:56:07Z Completed task=31 public_index=9
+2026-10-05T11:56:39Z Starting task=27 name=sorting_household_items public_index=0
+2026-10-05T13:32:14Z Completed task=27 public_index=0
+2026-10-05T13:32:14Z Starting task=27 name=sorting_household_items public_index=1
+2026-10-05T15:06:06Z Completed task=27 public_index=1
+2026-10-05T15:06:06Z Starting task=27 name=sorting_household_items public_index=2
+2026-10-05T16:45:18Z Completed task=27 public_index=2
+2026-10-05T16:45:18Z Starting task=27 name=sorting_household_items public_index=3
+2026-10-05T18:17:35Z Completed task=27 public_index=3
+2026-10-05T18:17:35Z Starting task=27 name=sorting_household_items public_index=4
+2026-10-05T19:57:43Z Completed task=27 public_index=4
+2026-10-05T19:57:43Z Starting task=27 name=sorting_household_items public_index=5
+2026-10-05T21:29:43Z Completed task=27 public_index=5
+2026-10-05T21:29:43Z Starting task=27 name=sorting_household_items public_index=6
+2026-10-05T23:04:46Z Completed task=27 public_index=6
+2026-10-05T23:04:46Z Starting task=27 name=sorting_household_items public_index=7
+2026-10-06T00:44:33Z Completed task=27 public_index=7
+2026-10-06T00:44:33Z Starting task=27 name=sorting_household_items public_index=8
+2026-10-06T02:25:04Z Completed task=27 public_index=8
+2026-10-06T02:25:04Z Starting task=27 name=sorting_household_items public_index=9
+2026-10-06T04:01:07Z Completed task=27 public_index=9
+2026-10-06T04:01:08Z All requested evaluations completed
+[eval/ckpt3-10k-tasks-31-27-20261005 e49192b] Record evaluation progress and available episode metrics
+ 4 files changed, 61 insertions(+), 7 deletions(-)
+ create mode 100644 evaluations/ckpt3-10k-tasks-31-27/results/sorting_household_items/instance-8/json/sorting_household_items_309_0.json
+ create mode 100644 evaluations/ckpt3-10k-tasks-31-27/results/sorting_household_items/instance-9/json/sorting_household_items_310_0.json
+To https://github.com/estjtmi/behavior-1k-solution.git
+   116b83a..e49192b  HEAD -> eval/ckpt3-10k-tasks-31-27-20261005
+branch 'eval/ckpt3-10k-tasks-31-27-20261005' set up to track 'origin/eval/ckpt3-10k-tasks-31-27-20261005'.
+GitHub push exit: 0
+Uploading sorting_household_items_309_0.mp4 68141239
+Uploading sorting_household_items_310_0.mp4 46293811
+[eval/ckpt3-10k-tasks-31-27-20261005 d16058b] Link completed rollout videos and JSON results
+ 2 files changed, 16 insertions(+)
+To https://github.com/estjtmi/behavior-1k-solution.git
+   e49192b..d16058b  eval/ckpt3-10k-tasks-31-27-20261005 -> eval/ckpt3-10k-tasks-31-27-20261005
+Published videos: 20 https://github.com/estjtmi/behavior-1k-solution/releases/tag/eval-ckpt3-10k-tasks-31-27-20261005

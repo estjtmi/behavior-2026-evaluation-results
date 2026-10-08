@@ -1,0 +1,23 @@
+INFO:2026-10-05 01:06:39,139:jax._src.xla_bridge:925: Unable to initialize backend 'rocm': module 'jaxlib.xla_extension' has no attribute 'GpuAllocatorConfig'
+INFO:jax._src.xla_bridge:Unable to initialize backend 'rocm': module 'jaxlib.xla_extension' has no attribute 'GpuAllocatorConfig'
+INFO:2026-10-05 01:06:39,143:jax._src.xla_bridge:925: Unable to initialize backend 'tpu': INTERNAL: Failed to open libtpu.so: libtpu.so: cannot open shared object file: No such file or directory
+INFO:jax._src.xla_bridge:Unable to initialize backend 'tpu': INTERNAL: Failed to open libtpu.so: libtpu.so: cannot open shared object file: No such file or directory
+INFO:absl:orbax-checkpoint version: 0.11.13
+INFO:absl:Created BasePyTreeCheckpointHandler: use_ocdbt=True, use_zarr3=False, pytree_metadata_options=PyTreeMetadataOptions(support_rich_types=False), array_metadata_store=<orbax.checkpoint._src.metadata.array_metadata_store.Store object at 0x70d2a3bfb690>
+INFO:absl:Restoring checkpoint from /workspace/checkpoints/ckpt3-10k/params.
+INFO:absl:[thread=MainThread] Failed to get flag value for EXPERIMENTAL_ORBAX_USE_DISTRIBUTED_PROCESS_ID.
+INFO:absl:[process=0] /jax/checkpoint/read/bytes_per_sec: 480.1 MiB/s (total bytes: 6.3 GiB) (time elapsed: 13 seconds) (per-host)
+INFO:absl:Finished restoring checkpoint in 13.53 seconds from /workspace/checkpoints/ckpt3-10k/params.
+INFO:b1k:FAST auxiliary enabled, vocab_size=1024
+INFO:root:Loaded norm stats from /workspace/checkpoints/ckpt3-10k/assets/behavior-1k/2026-challenge-demos
+INFO:root:Loaded norm stats from /workspace/checkpoints/ckpt3-10k/assets/behavior-1k/2026-challenge-demos
+INFO:root:Loaded norm stats from /workspace/checkpoints/ckpt3-10k/assets/behavior-1k/2026-challenge-demos
+INFO:b1k:Successfully accessed correlation matrix via attribute access
+INFO:b1k:Applying shrinkage regularization with beta=0.50
+INFO:b1k:✓ Loaded correlation matrix with shape (960, 960) (beta=0.50 shrinkage applied)
+INFO:b1k:  Memory usage: 3.52 MB
+INFO:root:Loaded correlation matrix for inference
+INFO:omnigibson.learning.utils.network_utils:Starting websocket server on 127.0.0.1:8000...
+INFO:websockets.server:server listening on 127.0.0.1:8000
+INFO:websockets.server:HTTP response sent (200 OK)
+INFO:websockets.server:connection closed

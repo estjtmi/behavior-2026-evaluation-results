@@ -1,0 +1,21 @@
+{
+  "updated_utc": "2026-10-07T01:50:05.661752+00:00",
+  "completed_result_files": 30,
+  "tasks": {
+    "clean_boxing_gloves": {
+      "completed": 10,
+      "successes": 1,
+      "mean_q_score": 0.15
+    },
+    "sorting_household_items": {
+      "completed": 10,
+      "successes": 0,
+      "mean_q_score": 0.1875
+    },
+    "wash_a_baseball_cap": {
+      "completed": 10,
+      "successes": 0,
+      "mean_q_score": 0.0
+    }
+  }
+}

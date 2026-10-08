@@ -1,0 +1,18 @@
+Uploading clean_boxing_gloves_301_0.mp4 22586290
+Uploading clean_boxing_gloves_302_0.mp4 25798074
+Uploading clean_boxing_gloves_303_0.mp4 32040847
+Uploading clean_boxing_gloves_304_0.mp4 30002988
+Uploading clean_boxing_gloves_305_0.mp4 14736905
+Uploading clean_boxing_gloves_306_0.mp4 15314063
+Uploading clean_boxing_gloves_307_0.mp4 26093409
+Uploading clean_boxing_gloves_308_0.mp4 30206630
+Uploading clean_boxing_gloves_309_0.mp4 19998272
+Uploading clean_boxing_gloves_310_0.mp4 11366643
+Uploading sorting_household_items_301_0.mp4 63650123
+[eval/ckpt3-10k-tasks-31-27-20261005 95d8d9d] Link completed rollout videos and JSON results
+ 2 files changed, 94 insertions(+)
+ create mode 100644 evaluations/ckpt3-10k-tasks-31-27/ROLLOUT_VIDEOS.md
+ create mode 100644 evaluations/ckpt3-10k-tasks-31-27/videos.json
+To https://github.com/estjtmi/behavior-1k-solution.git
+   8e9f004..95d8d9d  eval/ckpt3-10k-tasks-31-27-20261005 -> eval/ckpt3-10k-tasks-31-27-20261005
+Published videos: 11 https://github.com/estjtmi/behavior-1k-solution/releases/tag/eval-ckpt3-10k-tasks-31-27-20261005

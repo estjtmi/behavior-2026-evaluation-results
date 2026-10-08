@@ -1,0 +1,130 @@
+[
+  {
+    "path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-0/json/clean_boxing_gloves_301_0.json",
+    "sha256": "e2c3f6d218dcfeef964a9fb83ece79b47d773b22e94bd10f22bfbbf115bf4113"
+  },
+  {
+    "path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-1/json/clean_boxing_gloves_302_0.json",
+    "sha256": "41104e4675a18a83a655c926390b1ee41edd9fe3cb739c03989740330b8cdeda"
+  },
+  {
+    "path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-2/json/clean_boxing_gloves_303_0.json",
+    "sha256": "9df4c1d8c6c45cd768681c42a7ce92d0ea82f5435884dd8b740666419bf14fb9"
+  },
+  {
+    "path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-3/json/clean_boxing_gloves_304_0.json",
+    "sha256": "6ac9514ee22aa063fa238b8284e9869ac1a5c57e886c97b185e1e44e7577a002"
+  },
+  {
+    "path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-4/json/clean_boxing_gloves_305_0.json",
+    "sha256": "489b3a4680676b830b5ae2c46056055189c622f2ab042439e1fa51708d18d938"
+  },
+  {
+    "path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-5/json/clean_boxing_gloves_306_0.json",
+    "sha256": "c30cdddc64f27761c901d453c9cd9c98c3d0937b0b6930be82fad172f03d55df"
+  },
+  {
+    "path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-6/json/clean_boxing_gloves_307_0.json",
+    "sha256": "ea396b652cb5c9704218e9da1dea8d6708bca41a78256136085883e2ef84fdf0"
+  },
+  {
+    "path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-7/json/clean_boxing_gloves_308_0.json",
+    "sha256": "63003b9fc6151cae20aeb8f8f1fcc0dbc9fe463908a8ce64adae37ae4ad45b10"
+  },
+  {
+    "path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-8/json/clean_boxing_gloves_309_0.json",
+    "sha256": "173bcfaee0d7be64f7ff3254c4c3f09b6e1f7dfb3ffc5b5ba4dc9fa7fd068528"
+  },
+  {
+    "path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-9/json/clean_boxing_gloves_310_0.json",
+    "sha256": "17f2dc88e6dc28f818bd01c9f58af00ddd3d4d8ca446b96311647b5d9130f666"
+  },
+  {
+    "path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-0/json/sorting_household_items_301_0.json",
+    "sha256": "a629a71fb3235437306c6b5108af9c1f99e9a91f160bb14f02c325282a293dc3"
+  },
+  {
+    "path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-1/json/sorting_household_items_302_0.json",
+    "sha256": "f560e4be0dbdbd4cfd686023c3524141720305a7ae37eb24f565317d61e247fe"
+  },
+  {
+    "path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-2/json/sorting_household_items_303_0.json",
+    "sha256": "717c41702cd99cdfadba69ad1e48322ccbc170fe22319d8b17f721756b0a33f7"
+  },
+  {
+    "path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-3/json/sorting_household_items_304_0.json",
+    "sha256": "e43e8901311b42e1e5451e22733e9dc51fbf76422ff8a0add509ac13fb56e83a"
+  },
+  {
+    "path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-4/json/sorting_household_items_305_0.json",
+    "sha256": "d2ebec26f926f5a05863e4697e3afca81d43023fb2ac80c98943ac5d732c853a"
+  },
+  {
+    "path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-5/json/sorting_household_items_306_0.json",
+    "sha256": "cf769b774321f8a3cbf24bdb688932a784e01cb0611f26f94588de6db35f5faa"
+  },
+  {
+    "path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-6/json/sorting_household_items_307_0.json",
+    "sha256": "1849ee1bcb2698dcd3d3793a2d9bb5bb0bb2740dfe7302ed303c3d4eebc7d501"
+  },
+  {
+    "path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-7/json/sorting_household_items_308_0.json",
+    "sha256": "93e47f630a9d5b3f5b276e47f282206cd33437a934e02b4055115ccd4e72c501"
+  },
+  {
+    "path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-8/json/sorting_household_items_309_0.json",
+    "sha256": "b0fd3974d43a9542fabd9c8578c2db75363467694944b1acb0224deeb4b729ac"
+  },
+  {
+    "path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-9/json/sorting_household_items_310_0.json",
+    "sha256": "a1a245dc9e0f33d827c08e5e9c426229d89088b72ead3751ca236c41210206db"
+  },
+  {
+    "path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_301_0.json",
+    "sha256": "f6724041afd8918855d6a4145f3a9741d3896f5c5e3b1a0b262e543d64a43ac5"
+  },
+  {
+    "path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_302_0.json",
+    "sha256": "b3b2706caf9a880c5cfea9e39bf8ac99ee79e12a5f830cfa8ae2d0d88949ecae"
+  },
+  {
+    "path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_303_0.json",
+    "sha256": "53ad57a868a55988942b17d0645b2f3797ed149975abe0635282c7178400682e"
+  },
+  {
+    "path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_304_0.json",
+    "sha256": "72fd6e698bf9d1f737b0a5cf2d36ca2c1a5c825f3cf37b0963b6405fec390faa"
+  },
+  {
+    "path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_305_0.json",
+    "sha256": "39488d543a07602998adf263317bf0753ffd813986143ad16c48fe8a96b62f89"
+  },
+  {
+    "path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_306_0.json",
+    "sha256": "3d3aeb100335a10ad77a0680a347d135b1549f3a1cdea0b3b5d0d029ed177593"
+  },
+  {
+    "path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_307_0.json",
+    "sha256": "eb3d88460ceb10cb44c9d48f32545d821aeb450ab8022e078261c1fd01cdf3f3"
+  },
+  {
+    "path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_308_0.json",
+    "sha256": "666db2a6cce214eac708039d9b33e163467981de4bebab9f0acd8cb61c014520"
+  },
+  {
+    "path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_309_0.json",
+    "sha256": "f09e062be8cc4cfa76ebc5e243d1ebbfd115076cfb6de81f34efc3d0cb2dfec6"
+  },
+  {
+    "path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_310_0.json",
+    "sha256": "cebbd69510261279870b76133030cd7aeec4fe0687460ec6fbe6c0002972623e"
+  },
+  {
+    "path": "/workspace/evaluation-results/task32-speed-benchmark/json/wash_a_baseball_cap_301_0.json",
+    "sha256": "f7c2a7c6e644979635d11ec843e13d9f48467d57c06a5cf12ce83fa3fb711c96"
+  },
+  {
+    "path": "/workspace/evaluation-results/task32-speed-benchmark/json/wash_a_baseball_cap_301_1.json",
+    "sha256": "252467815e6aaedb854edab816bf470dde3cfd222012f6aceef3714483b0ade8"
+  }
+]

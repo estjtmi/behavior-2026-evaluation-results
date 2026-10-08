@@ -1,0 +1,14 @@
+State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                              
+LISTEN 0      511          0.0.0.0:3001       0.0.0.0:*    users:(("nginx",pid=124,fd=5))      
+LISTEN 0      128          0.0.0.0:22         0.0.0.0:*    users:(("sshd",pid=161,fd=3))       
+LISTEN 0      511          0.0.0.0:7270       0.0.0.0:*    users:(("nginx",pid=124,fd=9))      
+LISTEN 0      511          0.0.0.0:7861       0.0.0.0:*    users:(("nginx",pid=124,fd=6))      
+LISTEN 0      511          0.0.0.0:8081       0.0.0.0:*    users:(("nginx",pid=124,fd=7))      
+LISTEN 0      511          0.0.0.0:8001       0.0.0.0:*    users:(("nginx",pid=124,fd=8))      
+LISTEN 0      128          0.0.0.0:8888       0.0.0.0:*    users:(("jupyter-lab",pid=172,fd=6))
+LISTEN 0      511          0.0.0.0:9091       0.0.0.0:*    users:(("nginx",pid=124,fd=4))      
+LISTEN 0      128        127.0.0.1:40571      0.0.0.0:*    users:(("codex",pid=6599,fd=33))    
+LISTEN 0      4096      127.0.0.11:34937      0.0.0.0:*                                        
+LISTEN 0      128        127.0.0.1:38911      0.0.0.0:*    users:(("codex",pid=82161,fd=33))   
+LISTEN 0      128             [::]:22            [::]:*    users:(("sshd",pid=161,fd=4))       
+LISTEN 0      128             [::]:8888          [::]:*    users:(("jupyter-lab",pid=172,fd=7))

@@ -1,0 +1,2070 @@
+{
+  "created_at": "2026-10-08T19:00:20.876292+00:00",
+  "evaluation_state": "STOPPED_BY_USER",
+  "files": [
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-0/json/clean_boxing_gloves_301_0.json",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-0/json/clean_boxing_gloves_301_0.json",
+      "bytes": 523,
+      "sha256": "e2c3f6d218dcfeef964a9fb83ece79b47d773b22e94bd10f22bfbbf115bf4113"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-0/videos/clean_boxing_gloves_301_0.mp4",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-0/videos/clean_boxing_gloves_301_0.mp4",
+      "bytes": 22586290,
+      "sha256": "6c4f5cf9b1c676ad88dfb419c71f1cd8857b0783e875227a79ee2d4c2195d82a"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-1/json/clean_boxing_gloves_302_0.json",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-1/json/clean_boxing_gloves_302_0.json",
+      "bytes": 524,
+      "sha256": "41104e4675a18a83a655c926390b1ee41edd9fe3cb739c03989740330b8cdeda"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-1/videos/clean_boxing_gloves_302_0.mp4",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-1/videos/clean_boxing_gloves_302_0.mp4",
+      "bytes": 25798074,
+      "sha256": "344059b273f77549590bbc6ed58ed4d3c95a8899aa2d53dc6f78034c31fa9ffc"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-2/json/clean_boxing_gloves_303_0.json",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-2/json/clean_boxing_gloves_303_0.json",
+      "bytes": 525,
+      "sha256": "9df4c1d8c6c45cd768681c42a7ce92d0ea82f5435884dd8b740666419bf14fb9"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-2/videos/clean_boxing_gloves_303_0.mp4",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-2/videos/clean_boxing_gloves_303_0.mp4",
+      "bytes": 32040847,
+      "sha256": "5df6079a5b50f6690a3ae3a465360ea7e3e35bfbc9550208a33b781ae4ba8efb"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-3/json/clean_boxing_gloves_304_0.json",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-3/json/clean_boxing_gloves_304_0.json",
+      "bytes": 525,
+      "sha256": "6ac9514ee22aa063fa238b8284e9869ac1a5c57e886c97b185e1e44e7577a002"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-3/videos/clean_boxing_gloves_304_0.mp4",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-3/videos/clean_boxing_gloves_304_0.mp4",
+      "bytes": 30002988,
+      "sha256": "a2355bce847a607140c050b3189f80ee4e4838f65b69b7cc9a4d53b733995eaa"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-4/json/clean_boxing_gloves_305_0.json",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-4/json/clean_boxing_gloves_305_0.json",
+      "bytes": 525,
+      "sha256": "489b3a4680676b830b5ae2c46056055189c622f2ab042439e1fa51708d18d938"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-4/videos/clean_boxing_gloves_305_0.mp4",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-4/videos/clean_boxing_gloves_305_0.mp4",
+      "bytes": 14736905,
+      "sha256": "ff835ba9eb46c6954c0052bc492e80fdc79edf6f3d324b4ba31cd1c2399414f2"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-5/json/clean_boxing_gloves_306_0.json",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-5/json/clean_boxing_gloves_306_0.json",
+      "bytes": 537,
+      "sha256": "c30cdddc64f27761c901d453c9cd9c98c3d0937b0b6930be82fad172f03d55df"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-5/videos/clean_boxing_gloves_306_0.mp4",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-5/videos/clean_boxing_gloves_306_0.mp4",
+      "bytes": 15314063,
+      "sha256": "ce1c8471f666f6aafd6912f2838c4188308a78137b444ac832af7e5bc8bb2b62"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-6/json/clean_boxing_gloves_307_0.json",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-6/json/clean_boxing_gloves_307_0.json",
+      "bytes": 525,
+      "sha256": "ea396b652cb5c9704218e9da1dea8d6708bca41a78256136085883e2ef84fdf0"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-6/videos/clean_boxing_gloves_307_0.mp4",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-6/videos/clean_boxing_gloves_307_0.mp4",
+      "bytes": 26093409,
+      "sha256": "4f9d9eb2469683bc72d5def171b875521ce47d58af752b19624d3f9a3883b29d"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-7/json/clean_boxing_gloves_308_0.json",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-7/json/clean_boxing_gloves_308_0.json",
+      "bytes": 524,
+      "sha256": "63003b9fc6151cae20aeb8f8f1fcc0dbc9fe463908a8ce64adae37ae4ad45b10"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-7/videos/clean_boxing_gloves_308_0.mp4",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-7/videos/clean_boxing_gloves_308_0.mp4",
+      "bytes": 30206630,
+      "sha256": "778b58042ede76f88a4dc36903f6bb893412265214af3c1145b6645a671d4649"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-8/json/clean_boxing_gloves_309_0.json",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-8/json/clean_boxing_gloves_309_0.json",
+      "bytes": 525,
+      "sha256": "173bcfaee0d7be64f7ff3254c4c3f09b6e1f7dfb3ffc5b5ba4dc9fa7fd068528"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-8/videos/clean_boxing_gloves_309_0.mp4",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-8/videos/clean_boxing_gloves_309_0.mp4",
+      "bytes": 19998272,
+      "sha256": "20018121f48dfb8c3cdbd3d43f3f70978d60da3004c78d030f0e9c5f330979d4"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-9/json/clean_boxing_gloves_310_0.json",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-9/json/clean_boxing_gloves_310_0.json",
+      "bytes": 519,
+      "sha256": "17f2dc88e6dc28f818bd01c9f58af00ddd3d4d8ca446b96311647b5d9130f666"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-9/videos/clean_boxing_gloves_310_0.mp4",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/clean_boxing_gloves/instance-9/videos/clean_boxing_gloves_310_0.mp4",
+      "bytes": 11366643,
+      "sha256": "077ba2a2985b7fa62f1bca8bbe84c9d243d8f4ddebee9b9c4aa5702b7cbbe693"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/failed-attempts/20261005T010700/eval-31-0.log",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/failed-attempts/20261005T010700/eval-31-0.log",
+      "bytes": 85693,
+      "sha256": "88a565956d66a9d6243224ddd8eadca40511f9ffbe9a925099e253e1e1ceb0d6"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/failed-attempts/20261005T010700/policy-31.log",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/failed-attempts/20261005T010700/policy-31.log",
+      "bytes": 2282,
+      "sha256": "01de9628658b11ce3e4cb4c59863d4f8559e38c278a4a6b5baa2b41488f5bf0c"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/failed-attempts/20261005T025444/eval-31-0.log",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/failed-attempts/20261005T025444/eval-31-0.log",
+      "bytes": 70128,
+      "sha256": "9c84c0a23f6c09af4da8d16c7c75cbea82183c7f04a9bbdcc8e1c6c3ddca3ec8"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/failed-attempts/20261005T025444/eval-31-1.log",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/failed-attempts/20261005T025444/eval-31-1.log",
+      "bytes": 49704,
+      "sha256": "165da9f7dab03f4636cd2438ecf42235b4926962963add650cce08f4d5dd0135"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/failed-attempts/20261005T025444/policy-31.log",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/failed-attempts/20261005T025444/policy-31.log",
+      "bytes": 3881,
+      "sha256": "434f5ce15b6313517127e34837791398ee992b7c4e4492278b192c457702c3bf"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/logs/eval-27-0.log",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/logs/eval-27-0.log",
+      "bytes": 69963,
+      "sha256": "b182c18a2fd9c172fb9658731e09199fcf923ec1f61584338a447b5831916b72"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/logs/eval-27-1.log",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/logs/eval-27-1.log",
+      "bytes": 68025,
+      "sha256": "543f4ff85ab64549c6d619abb642bc30f8d586f9e6dd74e195e253419a21eb34"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/logs/eval-27-2.log",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/logs/eval-27-2.log",
+      "bytes": 68280,
+      "sha256": "a730f26b9f2cae403a10ed7a1296e9dbf845bcf0be12526150d632cd54767b4a"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/logs/eval-27-3.log",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/logs/eval-27-3.log",
+      "bytes": 67743,
+      "sha256": "d57c6b9e52bf45d1347e163f56af8646781c42a2828ed07c1c65c0cf0f742aa0"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/logs/eval-27-4.log",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/logs/eval-27-4.log",
+      "bytes": 67985,
+      "sha256": "3b74d0600d5ac60789b280180c5c2127695b55d0235a281b840254d0bfd009b2"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/logs/eval-27-5.log",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/logs/eval-27-5.log",
+      "bytes": 69165,
+      "sha256": "457ce6eb6f88dc93ed164b88ca64fb4d8a7a5266396e2a9671ae3e9cc49e2bef"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/logs/eval-27-6.log",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/logs/eval-27-6.log",
+      "bytes": 69949,
+      "sha256": "69be82b3bcb96780431a752ac021ace3def398a6353d54b6bad3b4a10f9b608a"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/logs/eval-27-7.log",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/logs/eval-27-7.log",
+      "bytes": 70687,
+      "sha256": "e64298aa21edc37a15443889014758d67295149148a4aa8a70ae30659780090f"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/logs/eval-27-8.log",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/logs/eval-27-8.log",
+      "bytes": 68558,
+      "sha256": "147253afc263b20ad5e229afa22ef5c25efa90e45ec68267412157332d9cecaf"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/logs/eval-27-9.log",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/logs/eval-27-9.log",
+      "bytes": 68547,
+      "sha256": "5c1818115bb1d685dfc1dd68d24784d925a171c6b28be4e5e8170f43f2191676"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/logs/eval-31-0.log",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/logs/eval-31-0.log",
+      "bytes": 68022,
+      "sha256": "cb1a5b405ad1d71b7a5df026219cdc75f3993ce722c9cfd80b2d1eadbd864a49"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/logs/eval-31-1.log",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/logs/eval-31-1.log",
+      "bytes": 68019,
+      "sha256": "8ff066e64fc138a16e0d1a8a7c2bb4a3853c4d66b49d7551d653016e4416a3f0"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/logs/eval-31-2.log",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/logs/eval-31-2.log",
+      "bytes": 67210,
+      "sha256": "aef958d8db137199079c57545e93109cc661d0ebc75b4c17f4d8cd5ceb9d6866"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/logs/eval-31-3.log",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/logs/eval-31-3.log",
+      "bytes": 68283,
+      "sha256": "b8f3287eb67db3c93d9fc873391f7636d1035eec97c8454d341f00ee42e43ac7"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/logs/eval-31-4.log",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/logs/eval-31-4.log",
+      "bytes": 67222,
+      "sha256": "6e9518174521cc1cedc5e72e07a7c1534fb1fed7e974b37c46febb6c8f8525d0"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/logs/eval-31-5.log",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/logs/eval-31-5.log",
+      "bytes": 68537,
+      "sha256": "72533b6120159ad629457cd419a37f5824921868b8894f986e66ed1f8e0c6259"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/logs/eval-31-6.log",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/logs/eval-31-6.log",
+      "bytes": 67488,
+      "sha256": "62f24df41fd02194e75bd1e32f8c26f2000abab02b7f7c2eb382fdf47f09bbcd"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/logs/eval-31-7.log",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/logs/eval-31-7.log",
+      "bytes": 68092,
+      "sha256": "43c70b3104a9810a508f17a0a4e7f76dc0f040c4d060e8286abcd9f1468c7489"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/logs/eval-31-8.log",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/logs/eval-31-8.log",
+      "bytes": 68356,
+      "sha256": "7d2b534c9d35e93fc2de3f3c24dbbb2fd30c2cb91a474b4cc283cc41ca0459d2"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/logs/eval-31-9.log",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/logs/eval-31-9.log",
+      "bytes": 67222,
+      "sha256": "b2569a0ec8fa9eb4f97dfb9554099b8e9334296e94de373ce8928129650b8914"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/logs/policy-27.log",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/logs/policy-27.log",
+      "bytes": 815659,
+      "sha256": "f4dc08b5a91916d94b46120c41fac34459289d63496c6d8fbff5c5775a8044fc"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/logs/policy-31.log",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/logs/policy-31.log",
+      "bytes": 310950,
+      "sha256": "fb625544ad80d0e0a0032d77cc73c8b3148eb0ff64b1e8ce3e301b7f1fc51f28"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-0/json/sorting_household_items_301_0.json",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-0/json/sorting_household_items_301_0.json",
+      "bytes": 528,
+      "sha256": "a629a71fb3235437306c6b5108af9c1f99e9a91f160bb14f02c325282a293dc3"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-0/videos/sorting_household_items_301_0.mp4",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-0/videos/sorting_household_items_301_0.mp4",
+      "bytes": 63650123,
+      "sha256": "e06220f9df4d77016649f6197e4c2c54789a855632c5b3e61f3046ebead1ba7c"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-1/json/sorting_household_items_302_0.json",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-1/json/sorting_household_items_302_0.json",
+      "bytes": 528,
+      "sha256": "f560e4be0dbdbd4cfd686023c3524141720305a7ae37eb24f565317d61e247fe"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-1/videos/sorting_household_items_302_0.mp4",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-1/videos/sorting_household_items_302_0.mp4",
+      "bytes": 59014371,
+      "sha256": "78846ed166b51bdd1ac97c0b8ca6b6f36c530a37c972ba65b6755804de99973d"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-2/json/sorting_household_items_303_0.json",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-2/json/sorting_household_items_303_0.json",
+      "bytes": 529,
+      "sha256": "717c41702cd99cdfadba69ad1e48322ccbc170fe22319d8b17f721756b0a33f7"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-2/videos/sorting_household_items_303_0.mp4",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-2/videos/sorting_household_items_303_0.mp4",
+      "bytes": 60185808,
+      "sha256": "73ad43d2997c46385c0c17ebb55f2bfa513ebc6ce8e512d05d34a02599556487"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-3/json/sorting_household_items_304_0.json",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-3/json/sorting_household_items_304_0.json",
+      "bytes": 528,
+      "sha256": "e43e8901311b42e1e5451e22733e9dc51fbf76422ff8a0add509ac13fb56e83a"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-3/videos/sorting_household_items_304_0.mp4",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-3/videos/sorting_household_items_304_0.mp4",
+      "bytes": 55590139,
+      "sha256": "89b19e423dd9f1ca98f1e743e936830b1dc39ea1092f3a914fe95f88bf42d1ec"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-4/json/sorting_household_items_305_0.json",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-4/json/sorting_household_items_305_0.json",
+      "bytes": 528,
+      "sha256": "d2ebec26f926f5a05863e4697e3afca81d43023fb2ac80c98943ac5d732c853a"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-4/videos/sorting_household_items_305_0.mp4",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-4/videos/sorting_household_items_305_0.mp4",
+      "bytes": 67449645,
+      "sha256": "b1aa2520e1b03966136238e8a82d9731acbcdc50c9068507ce0cdcc8e0341079"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-5/json/sorting_household_items_306_0.json",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-5/json/sorting_household_items_306_0.json",
+      "bytes": 529,
+      "sha256": "cf769b774321f8a3cbf24bdb688932a784e01cb0611f26f94588de6db35f5faa"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-5/videos/sorting_household_items_306_0.mp4",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-5/videos/sorting_household_items_306_0.mp4",
+      "bytes": 63259231,
+      "sha256": "b896464e676a72278665fd9eeb0c92ee1404bd1d2a5ce15541ecd190e16c1682"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-6/json/sorting_household_items_307_0.json",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-6/json/sorting_household_items_307_0.json",
+      "bytes": 526,
+      "sha256": "1849ee1bcb2698dcd3d3793a2d9bb5bb0bb2740dfe7302ed303c3d4eebc7d501"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-6/videos/sorting_household_items_307_0.mp4",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-6/videos/sorting_household_items_307_0.mp4",
+      "bytes": 55263557,
+      "sha256": "783989201a2c3a6732f36ff8e4907bcdfe568f1960071811c6f804f1f553b109"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-7/json/sorting_household_items_308_0.json",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-7/json/sorting_household_items_308_0.json",
+      "bytes": 529,
+      "sha256": "93e47f630a9d5b3f5b276e47f282206cd33437a934e02b4055115ccd4e72c501"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-7/videos/sorting_household_items_308_0.mp4",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-7/videos/sorting_household_items_308_0.mp4",
+      "bytes": 56893901,
+      "sha256": "22724b281e0e1992c1289aff7614b88041c59c1adb830b473c9071a2df67b371"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-8/json/sorting_household_items_309_0.json",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-8/json/sorting_household_items_309_0.json",
+      "bytes": 529,
+      "sha256": "b0fd3974d43a9542fabd9c8578c2db75363467694944b1acb0224deeb4b729ac"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-8/videos/sorting_household_items_309_0.mp4",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-8/videos/sorting_household_items_309_0.mp4",
+      "bytes": 68141239,
+      "sha256": "a6b6703cb8dcc8db764b572de8e5c0806fd8f04bb0486500a12c56f8050729bc"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-9/json/sorting_household_items_310_0.json",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-9/json/sorting_household_items_310_0.json",
+      "bytes": 527,
+      "sha256": "a1a245dc9e0f33d827c08e5e9c426229d89088b72ead3751ca236c41210206db"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-9/videos/sorting_household_items_310_0.mp4",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/sorting_household_items/instance-9/videos/sorting_household_items_310_0.mp4",
+      "bytes": 46293811,
+      "sha256": "864459fd37de98c3436255e8c02e3c3ee202497612b095a214e9e0495dd0c577"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/evaluator.log",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/evaluator.log",
+      "bytes": 74114,
+      "sha256": "7ecbd209ed10cfcec28d829730abd616ac5bbb9795c6d7c11fdb29f1f58a00f1"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_301_0.json",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_301_0.json",
+      "bytes": 523,
+      "sha256": "f6724041afd8918855d6a4145f3a9741d3896f5c5e3b1a0b262e543d64a43ac5"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_302_0.json",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_302_0.json",
+      "bytes": 526,
+      "sha256": "b3b2706caf9a880c5cfea9e39bf8ac99ee79e12a5f830cfa8ae2d0d88949ecae"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_303_0.json",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_303_0.json",
+      "bytes": 522,
+      "sha256": "53ad57a868a55988942b17d0645b2f3797ed149975abe0635282c7178400682e"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_304_0.json",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_304_0.json",
+      "bytes": 524,
+      "sha256": "72fd6e698bf9d1f737b0a5cf2d36ca2c1a5c825f3cf37b0963b6405fec390faa"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_305_0.json",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_305_0.json",
+      "bytes": 526,
+      "sha256": "39488d543a07602998adf263317bf0753ffd813986143ad16c48fe8a96b62f89"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_306_0.json",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_306_0.json",
+      "bytes": 523,
+      "sha256": "3d3aeb100335a10ad77a0680a347d135b1549f3a1cdea0b3b5d0d029ed177593"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_307_0.json",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_307_0.json",
+      "bytes": 527,
+      "sha256": "eb3d88460ceb10cb44c9d48f32545d821aeb450ab8022e078261c1fd01cdf3f3"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_308_0.json",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_308_0.json",
+      "bytes": 522,
+      "sha256": "666db2a6cce214eac708039d9b33e163467981de4bebab9f0acd8cb61c014520"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_309_0.json",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_309_0.json",
+      "bytes": 524,
+      "sha256": "f09e062be8cc4cfa76ebc5e243d1ebbfd115076cfb6de81f34efc3d0cb2dfec6"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_310_0.json",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_310_0.json",
+      "bytes": 525,
+      "sha256": "cebbd69510261279870b76133030cd7aeec4fe0687460ec6fbe6c0002972623e"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/policy.log",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/policy.log",
+      "bytes": 317841,
+      "sha256": "ebf158fdb7fa98f45e776e4720f2437e5fd70683ed0bf5760b0033f77a586838"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/videos/wash_a_baseball_cap_301_0.mp4",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/videos/wash_a_baseball_cap_301_0.mp4",
+      "bytes": 23841032,
+      "sha256": "d1d798a715e95b86cd21d1f0f4f9fd9056bb825cf86a57d165b6705ca0dec4e6"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/videos/wash_a_baseball_cap_302_0.mp4",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/videos/wash_a_baseball_cap_302_0.mp4",
+      "bytes": 24229660,
+      "sha256": "287258dcd04f7ef2ab9d87feb9616cd351c4c5d195858b700349b22fb0a927aa"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/videos/wash_a_baseball_cap_303_0.mp4",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/videos/wash_a_baseball_cap_303_0.mp4",
+      "bytes": 12917873,
+      "sha256": "9ceb92b7f47e1825827f9ec6aaca11eb04b07a824ed177b188a76d35e7f9e19b"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/videos/wash_a_baseball_cap_304_0.mp4",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/videos/wash_a_baseball_cap_304_0.mp4",
+      "bytes": 14081345,
+      "sha256": "a23167f93bb5ffa7a5ff48143f800d1069d2b26a0df523911dff56e2710e6ea2"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/videos/wash_a_baseball_cap_305_0.mp4",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/videos/wash_a_baseball_cap_305_0.mp4",
+      "bytes": 27412569,
+      "sha256": "e72bc46f6ceaa0f0012fcc2eb5650fea87548264b6a7eea7958f373dde55c7a1"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/videos/wash_a_baseball_cap_306_0.mp4",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/videos/wash_a_baseball_cap_306_0.mp4",
+      "bytes": 34227085,
+      "sha256": "61df8d4183c88a9226a6671560b552f4e20063b68877dce3a1e19403417c9df3"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/videos/wash_a_baseball_cap_307_0.mp4",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/videos/wash_a_baseball_cap_307_0.mp4",
+      "bytes": 25301391,
+      "sha256": "c44c8a118ab70b4ccfddc1b5b8eaf58fbd55069da9db1d5ec9c0201a2734eb54"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/videos/wash_a_baseball_cap_308_0.mp4",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/videos/wash_a_baseball_cap_308_0.mp4",
+      "bytes": 21395563,
+      "sha256": "c742244ce636045b3b12ba5c793215188011ff8ac2d468509d5514bf6752bf23"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/videos/wash_a_baseball_cap_309_0.mp4",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/videos/wash_a_baseball_cap_309_0.mp4",
+      "bytes": 25457580,
+      "sha256": "1e52a69971b5b90ca28c4a92a1a45c51c8758b788b8ce689ef27a8dd26eefb1e"
+    },
+    {
+      "path": "results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/videos/wash_a_baseball_cap_310_0.mp4",
+      "source_path": "/workspace/evaluation-results/ckpt3-10k-tasks-31-27/wash_a_baseball_cap/instance-batch/videos/wash_a_baseball_cap_310_0.mp4",
+      "bytes": 21144125,
+      "sha256": "5175e54ab75c22e92798d6bb3916344113f5928148a1a6a752a09f62c91d9907"
+    },
+    {
+      "path": "results/pi05-15tasks-40000/attempt-02/events.jsonl",
+      "source_path": "/workspace/evaluation-results/pi05-15tasks-40000/attempt-02/events.jsonl",
+      "bytes": 1163,
+      "sha256": "a3ff6e5a641d5ed8ae0a4d304f919e765f0007d07b47b466a7b2c2b8759115b2"
+    },
+    {
+      "path": "results/pi05-15tasks-40000/attempt-02/launch.json",
+      "source_path": "/workspace/evaluation-results/pi05-15tasks-40000/attempt-02/launch.json",
+      "bytes": 132,
+      "sha256": "95405f25b1b829ad3662f89c7396cefffbe90096c6170b08b22070992eaaf06f"
+    },
+    {
+      "path": "results/pi05-15tasks-40000/attempt-02/logs/orchestrator.log",
+      "source_path": "/workspace/evaluation-results/pi05-15tasks-40000/attempt-02/logs/orchestrator.log",
+      "bytes": 1654,
+      "sha256": "e5071591b48f20c8afb9aff86da0567b03b1d0ef2fc6595ac3d2de545ec0b820"
+    },
+    {
+      "path": "results/pi05-15tasks-40000/attempt-02/logs/policy-audit.jsonl",
+      "source_path": "/workspace/evaluation-results/pi05-15tasks-40000/attempt-02/logs/policy-audit.jsonl",
+      "bytes": 3070,
+      "sha256": "980e41cd808c44c117246fa20bfaf7bdaf7cacf2602b1c1de9c57189d8f9fe5f"
+    },
+    {
+      "path": "results/pi05-15tasks-40000/attempt-02/logs/policy.log",
+      "source_path": "/workspace/evaluation-results/pi05-15tasks-40000/attempt-02/logs/policy.log",
+      "bytes": 3698,
+      "sha256": "b07aff177d957246c93eb6df6fa0021e8bf3ae9654f406252ef70cac5cb84c65"
+    },
+    {
+      "path": "results/pi05-15tasks-40000/attempt-02/runner.lock",
+      "source_path": "/workspace/evaluation-results/pi05-15tasks-40000/attempt-02/runner.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "results/pi05-15tasks-40000/attempt-02/validation/task-5-public-index-10/command.json",
+      "source_path": "/workspace/evaluation-results/pi05-15tasks-40000/attempt-02/validation/task-5-public-index-10/command.json",
+      "bytes": 508,
+      "sha256": "c7f0984a4d5afc564fb94802424bc70c69480c69836d3f68ecac2c7be2fcd2ec"
+    },
+    {
+      "path": "results/pi05-15tasks-40000/attempt-02/validation/task-5-public-index-10/evaluator.log",
+      "source_path": "/workspace/evaluation-results/pi05-15tasks-40000/attempt-02/validation/task-5-public-index-10/evaluator.log",
+      "bytes": 57448,
+      "sha256": "c53ef65c721dc7175d2437463fd25870f287447f87ca841b0aa2831778ca1131"
+    },
+    {
+      "path": "results/pi05-15tasks-40000/attempt-02/validation/task-5-public-index-10/json/setting_mousetraps_311_0.json",
+      "source_path": "/workspace/evaluation-results/pi05-15tasks-40000/attempt-02/validation/task-5-public-index-10/json/setting_mousetraps_311_0.json",
+      "bytes": 534,
+      "sha256": "428041741df0fb282c77009f35a96a98e6b39124d2ae9bfaffbf379264d02c37"
+    },
+    {
+      "path": "results/pi05-15tasks-40000/attempt-02/validation/task-5-public-index-10/videos/setting_mousetraps_311_0.mp4",
+      "source_path": "/workspace/evaluation-results/pi05-15tasks-40000/attempt-02/validation/task-5-public-index-10/videos/setting_mousetraps_311_0.mp4",
+      "bytes": 530254,
+      "sha256": "998b4c9ca7910724891fa5754abb0b819a849d0716fe566a81c93a9c709596b2"
+    },
+    {
+      "path": "results/pi05-15tasks-40000/events.jsonl",
+      "source_path": "/workspace/evaluation-results/pi05-15tasks-40000/events.jsonl",
+      "bytes": 604,
+      "sha256": "94d2406098aa37d7c1ac382cef3deef32738c03b06450515b0e6e6a6625bc255"
+    },
+    {
+      "path": "results/pi05-15tasks-40000/launch.json",
+      "source_path": "/workspace/evaluation-results/pi05-15tasks-40000/launch.json",
+      "bytes": 132,
+      "sha256": "6c68bef8cd5d2e5ab13b72bab495d8ee046def4f5f32fa0ced9467efd53e3e4a"
+    },
+    {
+      "path": "results/pi05-15tasks-40000/logs/orchestrator.log",
+      "source_path": "/workspace/evaluation-results/pi05-15tasks-40000/logs/orchestrator.log",
+      "bytes": 1574,
+      "sha256": "12e325501ca47a8cb7db86b9cec92824ba09746321ff32a9b3833122132bf0ab"
+    },
+    {
+      "path": "results/pi05-15tasks-40000/logs/policy-audit.jsonl",
+      "source_path": "/workspace/evaluation-results/pi05-15tasks-40000/logs/policy-audit.jsonl",
+      "bytes": 654,
+      "sha256": "b8032ab451a99e018a24cb9d0b66bf847825f9320730a607e7dc46240e2cbb0f"
+    },
+    {
+      "path": "results/pi05-15tasks-40000/logs/policy.log",
+      "source_path": "/workspace/evaluation-results/pi05-15tasks-40000/logs/policy.log",
+      "bytes": 5436,
+      "sha256": "254699deadf0a40fa66513aea260d5d4143ae91a1275717430adfaf887c84732"
+    },
+    {
+      "path": "results/pi05-15tasks-40000/runner.lock",
+      "source_path": "/workspace/evaluation-results/pi05-15tasks-40000/runner.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "results/pi05-15tasks-40000/validation/task-5-public-index-10/command.json",
+      "source_path": "/workspace/evaluation-results/pi05-15tasks-40000/validation/task-5-public-index-10/command.json",
+      "bytes": 497,
+      "sha256": "0b5c0d63090dbc7a233f50bb0cc9b8e341736d087fccf88bef63916985de4f55"
+    },
+    {
+      "path": "results/pi05-15tasks-40000/validation/task-5-public-index-10/evaluator.log",
+      "source_path": "/workspace/evaluation-results/pi05-15tasks-40000/validation/task-5-public-index-10/evaluator.log",
+      "bytes": 60379,
+      "sha256": "02df2ab3908744e37286e0b1bb787757effa72b7bdaca0f313d570742c26a5ac"
+    },
+    {
+      "path": "results/task32-speed-benchmark/evaluator.log",
+      "source_path": "/workspace/evaluation-results/task32-speed-benchmark/evaluator.log",
+      "bytes": 67353,
+      "sha256": "eac9856cbfbe4b0765d3718d4795b260dd46a7a36cb9f490b50b92d0a71c4578"
+    },
+    {
+      "path": "results/task32-speed-benchmark/json/wash_a_baseball_cap_301_0.json",
+      "source_path": "/workspace/evaluation-results/task32-speed-benchmark/json/wash_a_baseball_cap_301_0.json",
+      "bytes": 532,
+      "sha256": "f7c2a7c6e644979635d11ec843e13d9f48467d57c06a5cf12ce83fa3fb711c96"
+    },
+    {
+      "path": "results/task32-speed-benchmark/json/wash_a_baseball_cap_301_1.json",
+      "source_path": "/workspace/evaluation-results/task32-speed-benchmark/json/wash_a_baseball_cap_301_1.json",
+      "bytes": 531,
+      "sha256": "252467815e6aaedb854edab816bf470dde3cfd222012f6aceef3714483b0ade8"
+    },
+    {
+      "path": "results/task32-speed-benchmark/policy.log",
+      "source_path": "/workspace/evaluation-results/task32-speed-benchmark/policy.log",
+      "bytes": 3872,
+      "sha256": "17e5e95b5989500ffc960a0892f64331351ec7bc8e22ba2fff0742b43270b054"
+    },
+    {
+      "path": "results/task32-speed-benchmark/videos/wash_a_baseball_cap_301_0.mp4",
+      "source_path": "/workspace/evaluation-results/task32-speed-benchmark/videos/wash_a_baseball_cap_301_0.mp4",
+      "bytes": 839992,
+      "sha256": "3cb1dcd5a95ebce967370c3be943cd4fb572e2822397f6509554acb93ba14754"
+    },
+    {
+      "path": "results/task32-speed-benchmark/videos/wash_a_baseball_cap_301_1.mp4",
+      "source_path": "/workspace/evaluation-results/task32-speed-benchmark/videos/wash_a_baseball_cap_301_1.mp4",
+      "bytes": 709395,
+      "sha256": "3f79d0880ffc8fd85472d535efb1d0018d2cf4116f9f4f2951cfa0ac4a2e5cc7"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/PERFORMANCE.md",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/PERFORMANCE.md",
+      "bytes": 2025,
+      "sha256": "1179f3d464a9cc675ab2c07c0695c74a6c339961d7b94b17005c87157570c49e"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/README.md",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/README.md",
+      "bytes": 2124,
+      "sha256": "5af521f82949712dde4cdbdaa87048f0eabc6beef338495b7e50f3e56a1df30e"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/ROLLOUT_VIDEOS.md",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/ROLLOUT_VIDEOS.md",
+      "bytes": 7873,
+      "sha256": "6d936f3d3da957631e7e21253f8160a6d019769bfa60201b6cb4952804211b81"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/__pycache__/serve_checkpoint.cpython-311.pyc",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/__pycache__/serve_checkpoint.cpython-311.pyc",
+      "bytes": 7155,
+      "sha256": "a42360d3760b5cb084949406f8d69565d874b01c2484750193aec7618c2cd3d2"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/__pycache__/serve_checkpoint.cpython-312.pyc",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/__pycache__/serve_checkpoint.cpython-312.pyc",
+      "bytes": 5727,
+      "sha256": "1654d7aeafe96ad5641772c2ecfd41fdd07bc4a712f23ab4d2f3d2a7c082d5df"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/manifest.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/manifest.json",
+      "bytes": 1171,
+      "sha256": "3742189c7522f9993bce53fa0aeafa45f4b0655d2f1883514b4acd0eb6acdd39"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/results/clean_boxing_gloves/instance-0/json/clean_boxing_gloves_301_0.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/results/clean_boxing_gloves/instance-0/json/clean_boxing_gloves_301_0.json",
+      "bytes": 523,
+      "sha256": "e2c3f6d218dcfeef964a9fb83ece79b47d773b22e94bd10f22bfbbf115bf4113"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/results/clean_boxing_gloves/instance-1/json/clean_boxing_gloves_302_0.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/results/clean_boxing_gloves/instance-1/json/clean_boxing_gloves_302_0.json",
+      "bytes": 524,
+      "sha256": "41104e4675a18a83a655c926390b1ee41edd9fe3cb739c03989740330b8cdeda"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/results/clean_boxing_gloves/instance-2/json/clean_boxing_gloves_303_0.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/results/clean_boxing_gloves/instance-2/json/clean_boxing_gloves_303_0.json",
+      "bytes": 525,
+      "sha256": "9df4c1d8c6c45cd768681c42a7ce92d0ea82f5435884dd8b740666419bf14fb9"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/results/clean_boxing_gloves/instance-3/json/clean_boxing_gloves_304_0.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/results/clean_boxing_gloves/instance-3/json/clean_boxing_gloves_304_0.json",
+      "bytes": 525,
+      "sha256": "6ac9514ee22aa063fa238b8284e9869ac1a5c57e886c97b185e1e44e7577a002"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/results/clean_boxing_gloves/instance-4/json/clean_boxing_gloves_305_0.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/results/clean_boxing_gloves/instance-4/json/clean_boxing_gloves_305_0.json",
+      "bytes": 525,
+      "sha256": "489b3a4680676b830b5ae2c46056055189c622f2ab042439e1fa51708d18d938"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/results/clean_boxing_gloves/instance-5/json/clean_boxing_gloves_306_0.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/results/clean_boxing_gloves/instance-5/json/clean_boxing_gloves_306_0.json",
+      "bytes": 537,
+      "sha256": "c30cdddc64f27761c901d453c9cd9c98c3d0937b0b6930be82fad172f03d55df"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/results/clean_boxing_gloves/instance-6/json/clean_boxing_gloves_307_0.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/results/clean_boxing_gloves/instance-6/json/clean_boxing_gloves_307_0.json",
+      "bytes": 525,
+      "sha256": "ea396b652cb5c9704218e9da1dea8d6708bca41a78256136085883e2ef84fdf0"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/results/clean_boxing_gloves/instance-7/json/clean_boxing_gloves_308_0.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/results/clean_boxing_gloves/instance-7/json/clean_boxing_gloves_308_0.json",
+      "bytes": 524,
+      "sha256": "63003b9fc6151cae20aeb8f8f1fcc0dbc9fe463908a8ce64adae37ae4ad45b10"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/results/clean_boxing_gloves/instance-8/json/clean_boxing_gloves_309_0.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/results/clean_boxing_gloves/instance-8/json/clean_boxing_gloves_309_0.json",
+      "bytes": 525,
+      "sha256": "173bcfaee0d7be64f7ff3254c4c3f09b6e1f7dfb3ffc5b5ba4dc9fa7fd068528"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/results/clean_boxing_gloves/instance-9/json/clean_boxing_gloves_310_0.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/results/clean_boxing_gloves/instance-9/json/clean_boxing_gloves_310_0.json",
+      "bytes": 519,
+      "sha256": "17f2dc88e6dc28f818bd01c9f58af00ddd3d4d8ca446b96311647b5d9130f666"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/results/sorting_household_items/instance-0/json/sorting_household_items_301_0.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/results/sorting_household_items/instance-0/json/sorting_household_items_301_0.json",
+      "bytes": 528,
+      "sha256": "a629a71fb3235437306c6b5108af9c1f99e9a91f160bb14f02c325282a293dc3"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/results/sorting_household_items/instance-1/json/sorting_household_items_302_0.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/results/sorting_household_items/instance-1/json/sorting_household_items_302_0.json",
+      "bytes": 528,
+      "sha256": "f560e4be0dbdbd4cfd686023c3524141720305a7ae37eb24f565317d61e247fe"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/results/sorting_household_items/instance-2/json/sorting_household_items_303_0.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/results/sorting_household_items/instance-2/json/sorting_household_items_303_0.json",
+      "bytes": 529,
+      "sha256": "717c41702cd99cdfadba69ad1e48322ccbc170fe22319d8b17f721756b0a33f7"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/results/sorting_household_items/instance-3/json/sorting_household_items_304_0.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/results/sorting_household_items/instance-3/json/sorting_household_items_304_0.json",
+      "bytes": 528,
+      "sha256": "e43e8901311b42e1e5451e22733e9dc51fbf76422ff8a0add509ac13fb56e83a"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/results/sorting_household_items/instance-4/json/sorting_household_items_305_0.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/results/sorting_household_items/instance-4/json/sorting_household_items_305_0.json",
+      "bytes": 528,
+      "sha256": "d2ebec26f926f5a05863e4697e3afca81d43023fb2ac80c98943ac5d732c853a"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/results/sorting_household_items/instance-5/json/sorting_household_items_306_0.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/results/sorting_household_items/instance-5/json/sorting_household_items_306_0.json",
+      "bytes": 529,
+      "sha256": "cf769b774321f8a3cbf24bdb688932a784e01cb0611f26f94588de6db35f5faa"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/results/sorting_household_items/instance-6/json/sorting_household_items_307_0.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/results/sorting_household_items/instance-6/json/sorting_household_items_307_0.json",
+      "bytes": 526,
+      "sha256": "1849ee1bcb2698dcd3d3793a2d9bb5bb0bb2740dfe7302ed303c3d4eebc7d501"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/results/sorting_household_items/instance-7/json/sorting_household_items_308_0.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/results/sorting_household_items/instance-7/json/sorting_household_items_308_0.json",
+      "bytes": 529,
+      "sha256": "93e47f630a9d5b3f5b276e47f282206cd33437a934e02b4055115ccd4e72c501"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/results/sorting_household_items/instance-8/json/sorting_household_items_309_0.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/results/sorting_household_items/instance-8/json/sorting_household_items_309_0.json",
+      "bytes": 529,
+      "sha256": "b0fd3974d43a9542fabd9c8578c2db75363467694944b1acb0224deeb4b729ac"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/results/sorting_household_items/instance-9/json/sorting_household_items_310_0.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/results/sorting_household_items/instance-9/json/sorting_household_items_310_0.json",
+      "bytes": 527,
+      "sha256": "a1a245dc9e0f33d827c08e5e9c426229d89088b72ead3751ca236c41210206db"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/results/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_301_0.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/results/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_301_0.json",
+      "bytes": 523,
+      "sha256": "f6724041afd8918855d6a4145f3a9741d3896f5c5e3b1a0b262e543d64a43ac5"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/results/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_302_0.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/results/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_302_0.json",
+      "bytes": 526,
+      "sha256": "b3b2706caf9a880c5cfea9e39bf8ac99ee79e12a5f830cfa8ae2d0d88949ecae"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/results/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_303_0.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/results/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_303_0.json",
+      "bytes": 522,
+      "sha256": "53ad57a868a55988942b17d0645b2f3797ed149975abe0635282c7178400682e"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/results/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_304_0.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/results/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_304_0.json",
+      "bytes": 524,
+      "sha256": "72fd6e698bf9d1f737b0a5cf2d36ca2c1a5c825f3cf37b0963b6405fec390faa"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/results/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_305_0.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/results/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_305_0.json",
+      "bytes": 526,
+      "sha256": "39488d543a07602998adf263317bf0753ffd813986143ad16c48fe8a96b62f89"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/results/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_306_0.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/results/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_306_0.json",
+      "bytes": 523,
+      "sha256": "3d3aeb100335a10ad77a0680a347d135b1549f3a1cdea0b3b5d0d029ed177593"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/results/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_307_0.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/results/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_307_0.json",
+      "bytes": 527,
+      "sha256": "eb3d88460ceb10cb44c9d48f32545d821aeb450ab8022e078261c1fd01cdf3f3"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/results/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_308_0.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/results/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_308_0.json",
+      "bytes": 522,
+      "sha256": "666db2a6cce214eac708039d9b33e163467981de4bebab9f0acd8cb61c014520"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/results/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_309_0.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/results/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_309_0.json",
+      "bytes": 524,
+      "sha256": "f09e062be8cc4cfa76ebc5e243d1ebbfd115076cfb6de81f34efc3d0cb2dfec6"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/results/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_310_0.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/results/wash_a_baseball_cap/instance-batch/json/wash_a_baseball_cap_310_0.json",
+      "bytes": 525,
+      "sha256": "cebbd69510261279870b76133030cd7aeec4fe0687460ec6fbe6c0002972623e"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/run_sequential.sh",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/run_sequential.sh",
+      "bytes": 2041,
+      "sha256": "78d73fd2ad00757ceaf2f3c8fe664b0c85bfed84b2500e0d745fee9787113be1"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/serve_checkpoint.py",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/serve_checkpoint.py",
+      "bytes": 3773,
+      "sha256": "d1653c3cbb07bd5ac702218fecc28a539bb5bff25229a2d4458cdb33ef989c0d"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/status.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/status.json",
+      "bytes": 97,
+      "sha256": "a9a92baccb22c952e27c0f256ce340f00870749206800c8b3f9c2e1a150244ba"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/summary.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/summary.json",
+      "bytes": 434,
+      "sha256": "12e2f992785900258baae9a601a19e1b72fa813067d5f202cac5d63cc4ce3961"
+    },
+    {
+      "path": "project-evaluations/ckpt3-10k-tasks-31-27/videos.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/ckpt3-10k-tasks-31-27/videos.json",
+      "bytes": 11783,
+      "sha256": "f53f1729a2adac76a17c44ff536e53bd5ba901083e55e787952a4a8b15378bc0"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/AUDIT.md",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/AUDIT.md",
+      "bytes": 5077,
+      "sha256": "1d89c99357a94b8c33adc7cc39f1ae3525887e753f94a30d9240ec219957a6f6"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/README.md",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/README.md",
+      "bytes": 2284,
+      "sha256": "131590644fa208a115e3cb31e223b3e2ae0340dceab3597ee8d8c2bc3d297d1d"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/VALIDATION_DIAGNOSTIC_FIX.md",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/VALIDATION_DIAGNOSTIC_FIX.md",
+      "bytes": 1364,
+      "sha256": "2afe7597daacf1d69826a9d358b588b940ef866456eed1091e039814f0c5b0f6"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/__pycache__/run_sequential.cpython-312.pyc",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/__pycache__/run_sequential.cpython-312.pyc",
+      "bytes": 13862,
+      "sha256": "97bfc6a49aed179f355286e4616e39929229d88ab6e6c1d3db41c400a9ef0be4"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/__pycache__/serve_checkpoint.cpython-312.pyc",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/__pycache__/serve_checkpoint.cpython-312.pyc",
+      "bytes": 9146,
+      "sha256": "ac26dc886561e4393e98bb58f8d128247b2cad4b559f59f42a1b2b6c8721f46e"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/continuation-20261008/RESULT.md",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/continuation-20261008/RESULT.md",
+      "bytes": 3302,
+      "sha256": "471579feee701e3477f5e42aa6e86e611f300587fe866423ebbf0cff7f60fffc"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/continuation-20261008/check_assets.py",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/continuation-20261008/check_assets.py",
+      "bytes": 4591,
+      "sha256": "cb4ef3a57705f664ce7e255ab24e918a3071cb742cb184db8c7166162f3556e7"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/continuation-20261008/evaluation-plan.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/continuation-20261008/evaluation-plan.json",
+      "bytes": 7655,
+      "sha256": "eb5d51d08b4474b82b38c7d479d99a061a0a5bb2b2ee6e892595af57fa1a7ef9"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/continuation-20261008/existing-results-inventory.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/continuation-20261008/existing-results-inventory.json",
+      "bytes": 7231,
+      "sha256": "4d6fc5de0ac9d1f48382a883fc815272e931484d287ffd40be6b4260ac615fc1"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/continuation-20261008/git-refs.txt",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/continuation-20261008/git-refs.txt",
+      "bytes": 303,
+      "sha256": "d80e60a58a9c8f7c3aa85ac8e40910b12a85aaa40384f2b91a83aaee19e5a7c6"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/continuation-20261008/ports.txt",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/continuation-20261008/ports.txt",
+      "bytes": 1344,
+      "sha256": "a8b658255040482d86abe1034e028a2a1ae8e0e1621ef02dd763c1b811d06b03"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/continuation-20261008/runtime-checks-02.log",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/continuation-20261008/runtime-checks-02.log",
+      "bytes": 30622,
+      "sha256": "3470fd80271baa19118d7b152a2c93e8caf76e59850d0a3438095b8d8c7949f7"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/continuation-20261008/runtime-checks-03.log",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/continuation-20261008/runtime-checks-03.log",
+      "bytes": 690,
+      "sha256": "f2eacf718948ba104c4891be2845ab22e11d4e75502e6b6cbfb13146c4638c68"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/continuation-20261008/runtime-checks.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/continuation-20261008/runtime-checks.json",
+      "bytes": 4821,
+      "sha256": "22afaa249da12c3e748432211cee25953bbd4025d0ad1a9b94ebf1a04af9df94"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/continuation-20261008/runtime-checks.log",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/continuation-20261008/runtime-checks.log",
+      "bytes": 342,
+      "sha256": "a9659e58beb05c25a063b84bf1ddd1fdc31c08f805004e2c598b219b12550843"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/continuation-20261008/sha256.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/continuation-20261008/sha256.json",
+      "bytes": 1000,
+      "sha256": "226c5ad62e0fd34f1f9c1974bddf188d024499ea15651760fa06595e9c4a9ff0"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/continuation-20261008/tmux.txt",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/continuation-20261008/tmux.txt",
+      "bytes": 390,
+      "sha256": "95c3a61b17f5b101296f1c194dd7e1e9ee31cfade7a3d11056ba1fb00e95887e"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/datasets/IliaLarchenko/behavior_224_rgb/.cache/huggingface/.gitignore",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/datasets/IliaLarchenko/behavior_224_rgb/.cache/huggingface/.gitignore",
+      "bytes": 1,
+      "sha256": "684888c0ebb17f374298b65ee2807526c066094c701bcc7ebbe1c1095f494fc1"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/datasets/IliaLarchenko/behavior_224_rgb/.cache/huggingface/CACHEDIR.TAG",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/datasets/IliaLarchenko/behavior_224_rgb/.cache/huggingface/CACHEDIR.TAG",
+      "bytes": 191,
+      "sha256": "f6572428f6d5e1575e73a1502895a8731f10757dfbb634909c6e154b849af91d"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/datasets/IliaLarchenko/behavior_224_rgb/.cache/huggingface/download/meta/tasks.jsonl.lock",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/datasets/IliaLarchenko/behavior_224_rgb/.cache/huggingface/download/meta/tasks.jsonl.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/datasets/IliaLarchenko/behavior_224_rgb/.cache/huggingface/download/meta/tasks.jsonl.metadata",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/datasets/IliaLarchenko/behavior_224_rgb/.cache/huggingface/download/meta/tasks.jsonl.metadata",
+      "bytes": 99,
+      "sha256": "b1b6c61ec4be2ad40f20cbef0f1041e940de362e4737ae03495ee9bb52997044"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/datasets/IliaLarchenko/behavior_224_rgb/meta/tasks.jsonl",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/datasets/IliaLarchenko/behavior_224_rgb/meta/tasks.jsonl",
+      "bytes": 14254,
+      "sha256": "fb6717bbb4fa503ac5d2bbf220d13727e29d6d320e5cd0d4a4e9b2200483943b"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/datasets/behavior-1k/2026-challenge-demos/.cache/huggingface/.gitignore",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/datasets/behavior-1k/2026-challenge-demos/.cache/huggingface/.gitignore",
+      "bytes": 1,
+      "sha256": "684888c0ebb17f374298b65ee2807526c066094c701bcc7ebbe1c1095f494fc1"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/datasets/behavior-1k/2026-challenge-demos/.cache/huggingface/CACHEDIR.TAG",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/datasets/behavior-1k/2026-challenge-demos/.cache/huggingface/CACHEDIR.TAG",
+      "bytes": 191,
+      "sha256": "f6572428f6d5e1575e73a1502895a8731f10757dfbb634909c6e154b849af91d"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/datasets/behavior-1k/2026-challenge-demos/.cache/huggingface/download/meta/tasks.jsonl.lock",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/datasets/behavior-1k/2026-challenge-demos/.cache/huggingface/download/meta/tasks.jsonl.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/datasets/behavior-1k/2026-challenge-demos/.cache/huggingface/download/meta/tasks.jsonl.metadata",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/datasets/behavior-1k/2026-challenge-demos/.cache/huggingface/download/meta/tasks.jsonl.metadata",
+      "bytes": 100,
+      "sha256": "b075d9db4c21b34fb6940ebd402a302b83e1c526bda9eb53ba7c2c0a7be13b6b"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/datasets/behavior-1k/2026-challenge-demos/meta/tasks.jsonl",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/datasets/behavior-1k/2026-challenge-demos/meta/tasks.jsonl",
+      "bytes": 22202,
+      "sha256": "8d8222310c3611316c6e5fe822a8dd3c6e552b32bcfddd10870c0672bfb8427c"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/findings.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/findings.json",
+      "bytes": 9620,
+      "sha256": "a7eef7cd0c639f09b21011aad59c761360d57ab3a412ea1054cff3112d37b12e"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/repository.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/repository.json",
+      "bytes": 26143,
+      "sha256": "63173c54fea61d6b27874100b9de6742745059f5ac4725f7db1ffa1fdc07392d"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/sha256.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/sha256.json",
+      "bytes": 6157,
+      "sha256": "679001de577e50d8fa16acddef007b65abce9a7fa502cf1b81bf08dda7b930a6"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/.gitignore",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/.gitignore",
+      "bytes": 1,
+      "sha256": "684888c0ebb17f374298b65ee2807526c066094c701bcc7ebbe1c1095f494fc1"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/CACHEDIR.TAG",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/CACHEDIR.TAG",
+      "bytes": 191,
+      "sha256": "f6572428f6d5e1575e73a1502895a8731f10757dfbb634909c6e154b849af91d"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_10000/_CHECKPOINT_METADATA.lock",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_10000/_CHECKPOINT_METADATA.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_10000/_CHECKPOINT_METADATA.metadata",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_10000/_CHECKPOINT_METADATA.metadata",
+      "bytes": 101,
+      "sha256": "a05dc9f5937fa5c65780193f41477fe6a2706071c8a2ae8b896559e79f3ae5a8"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/metadata.json.lock",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/metadata.json.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/metadata.json.metadata",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/metadata.json.metadata",
+      "bytes": 101,
+      "sha256": "0a55c48877e2132ba06403b0a5ea5c0159948f8d40fe992c8197467bbe1c3bcf"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processing_action_tokenizer.py.lock",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processing_action_tokenizer.py.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processing_action_tokenizer.py.metadata",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processing_action_tokenizer.py.metadata",
+      "bytes": 100,
+      "sha256": "e427d2676a46535ed9203caea72ebbe4a580f255118f843ec6c1bd76e9839422"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processor_config.json.lock",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processor_config.json.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processor_config.json.metadata",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processor_config.json.metadata",
+      "bytes": 101,
+      "sha256": "0dddecde1f05998c1f8ff17d8c25ca644dc32cc0dd22ebea96b8aeeb28f90e15"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/special_tokens_map.json.lock",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/special_tokens_map.json.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/special_tokens_map.json.metadata",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/special_tokens_map.json.metadata",
+      "bytes": 101,
+      "sha256": "a5c1c57b0f1128d3f4b0242ab6b98bf0116e23cfc9de9670c3e30d6347602c40"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer.json.lock",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer.json.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer.json.metadata",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer.json.metadata",
+      "bytes": 101,
+      "sha256": "862460ec35d4de0345fe7ee9db6ac3e6a6809e515af19c922c937ccb494ff771"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer_config.json.lock",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer_config.json.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer_config.json.metadata",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer_config.json.metadata",
+      "bytes": 101,
+      "sha256": "9a6ccf856256985afc84e5839d49b654c91820d50fa54cc0e8daf490c0af876d"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/norm_stats.json.lock",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/norm_stats.json.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/norm_stats.json.metadata",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/norm_stats.json.metadata",
+      "bytes": 125,
+      "sha256": "474b5728b04ba7743f45b3350e64d244b195f7cafc4fb1f079b5eeab0f32fabf"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_10000/params/_METADATA.lock",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_10000/params/_METADATA.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_10000/params/_METADATA.metadata",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_10000/params/_METADATA.metadata",
+      "bytes": 100,
+      "sha256": "cc1d6468e50769e655a6a811c3e6eea4f0073ce5281b472408c5365e8113a5bc"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_20000/_CHECKPOINT_METADATA.lock",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_20000/_CHECKPOINT_METADATA.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_20000/_CHECKPOINT_METADATA.metadata",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_20000/_CHECKPOINT_METADATA.metadata",
+      "bytes": 101,
+      "sha256": "3236e510db131ab6221bdea5cc0966177df043ff05055d963dcb291b3cfc637d"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/metadata.json.lock",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/metadata.json.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/metadata.json.metadata",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/metadata.json.metadata",
+      "bytes": 101,
+      "sha256": "52cb1fb29a391ff74c72655c782ee6f47d0d73a2213abf21e1be222cad27eade"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processing_action_tokenizer.py.lock",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processing_action_tokenizer.py.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processing_action_tokenizer.py.metadata",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processing_action_tokenizer.py.metadata",
+      "bytes": 100,
+      "sha256": "500703d599010de4258e5ca5caf72cca14532cb302aeabcf816349298dbcdc87"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processor_config.json.lock",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processor_config.json.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processor_config.json.metadata",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processor_config.json.metadata",
+      "bytes": 101,
+      "sha256": "7bd244358e42d90b289da52f4ac2854b80f01225a255dc3112978bfe7bb83beb"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/special_tokens_map.json.lock",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/special_tokens_map.json.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/special_tokens_map.json.metadata",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/special_tokens_map.json.metadata",
+      "bytes": 100,
+      "sha256": "fb26e35ffab9842dcbfd46536e5d09135c93cbe3d4b3a7ac7b6567e401beba0b"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer.json.lock",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer.json.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer.json.metadata",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer.json.metadata",
+      "bytes": 101,
+      "sha256": "3b4d2b6bce3d98b8cb8dc949b8577a9d25fb71a08c96283ffb86acb566576909"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer_config.json.lock",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer_config.json.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer_config.json.metadata",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer_config.json.metadata",
+      "bytes": 100,
+      "sha256": "5d15e98cea632a7ef1b1d43bde8f84859d21ac14caa83f98f8baa7769ee4b832"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/norm_stats.json.lock",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/norm_stats.json.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/norm_stats.json.metadata",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/norm_stats.json.metadata",
+      "bytes": 125,
+      "sha256": "693cc98ffc9eee4a6d5fbada65e733c022e1414934509a9ca9b070951974b04d"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_20000/params/_METADATA.lock",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_20000/params/_METADATA.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_20000/params/_METADATA.metadata",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_20000/params/_METADATA.metadata",
+      "bytes": 101,
+      "sha256": "3b1baca9de5533b8ea203949a30720bcf2a43e771e75bc6b7e50e9e180b24a0f"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_30000/_CHECKPOINT_METADATA.lock",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_30000/_CHECKPOINT_METADATA.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_30000/_CHECKPOINT_METADATA.metadata",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_30000/_CHECKPOINT_METADATA.metadata",
+      "bytes": 101,
+      "sha256": "d1e761cb14c0c82d89bb30e29e0a797d7dbe9051351bf2a774daab7649b9b568"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/metadata.json.lock",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/metadata.json.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/metadata.json.metadata",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/metadata.json.metadata",
+      "bytes": 101,
+      "sha256": "4f85b383ac949d5a69a940fa6fd93cad96cb935726f48cdd59a97f08c42c963c"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processing_action_tokenizer.py.lock",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processing_action_tokenizer.py.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processing_action_tokenizer.py.metadata",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processing_action_tokenizer.py.metadata",
+      "bytes": 101,
+      "sha256": "97724f550e7f644f2ea2f87903053928ce5a74c8fb7e1e194dd4d81a53c823e0"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processor_config.json.lock",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processor_config.json.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processor_config.json.metadata",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processor_config.json.metadata",
+      "bytes": 101,
+      "sha256": "3dbc47de1e1311346eee92157d6a09ff7b6548b117a634cccc42e966f67992f1"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/special_tokens_map.json.lock",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/special_tokens_map.json.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/special_tokens_map.json.metadata",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/special_tokens_map.json.metadata",
+      "bytes": 101,
+      "sha256": "4eb6075c703b7329bc72a069df63984a39fbe49e038a99c2bca58d68076b5d0b"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer.json.lock",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer.json.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer.json.metadata",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer.json.metadata",
+      "bytes": 101,
+      "sha256": "cfde5b4f622312bb06d0c028bfa5f61ecedf4e5a7a2b841834ce007c1f593b44"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer_config.json.lock",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer_config.json.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer_config.json.metadata",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer_config.json.metadata",
+      "bytes": 101,
+      "sha256": "48a7eca06acaa755c1d8920736e0fd7deeb1267d642f7461c1cb8af8b5e4ec4e"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/norm_stats.json.lock",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/norm_stats.json.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/norm_stats.json.metadata",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/norm_stats.json.metadata",
+      "bytes": 125,
+      "sha256": "5466527e89780bffe6f30e7d093a228ec3ebb20311fb93a30b8d5d67a2314b0d"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_30000/params/_METADATA.lock",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_30000/params/_METADATA.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_30000/params/_METADATA.metadata",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_30000/params/_METADATA.metadata",
+      "bytes": 100,
+      "sha256": "c2a0c084b2a760739c568af606c66e7e81a86865400c8dd482c1727f553d11ac"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_40000/_CHECKPOINT_METADATA.lock",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_40000/_CHECKPOINT_METADATA.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_40000/_CHECKPOINT_METADATA.metadata",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_40000/_CHECKPOINT_METADATA.metadata",
+      "bytes": 101,
+      "sha256": "9baeb8807a64bbaaa28e51a37af2091fe518c1498393c05dd32d03664779a7b6"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/metadata.json.lock",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/metadata.json.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/metadata.json.metadata",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/metadata.json.metadata",
+      "bytes": 100,
+      "sha256": "80e22ec756c9bd4c0749c1ecd82a750e2a63ecf67e7a943069867a26e7c90afe"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processing_action_tokenizer.py.lock",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processing_action_tokenizer.py.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processing_action_tokenizer.py.metadata",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processing_action_tokenizer.py.metadata",
+      "bytes": 101,
+      "sha256": "b35b2bda69c8703ba1b62c74de938de8e3d526c5d295213d9fd72e2f4bf2f501"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processor_config.json.lock",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processor_config.json.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processor_config.json.metadata",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processor_config.json.metadata",
+      "bytes": 101,
+      "sha256": "84c2d36f7e59ec98d61e9f7e52e25021d89fde7e455c513b6887b98cf0919056"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/special_tokens_map.json.lock",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/special_tokens_map.json.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/special_tokens_map.json.metadata",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/special_tokens_map.json.metadata",
+      "bytes": 101,
+      "sha256": "ccfbf52b45f3572b426cdde816f0a04ec6dd384dd308798f1ebc0e1beb110610"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer.json.lock",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer.json.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer.json.metadata",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer.json.metadata",
+      "bytes": 101,
+      "sha256": "6f6ce07011ba55dcd3f1f72d7eba9c4dbd63fb2fac2b90e2a205530cca4d55f7"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer_config.json.lock",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer_config.json.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer_config.json.metadata",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer_config.json.metadata",
+      "bytes": 101,
+      "sha256": "3b83bf6d606b8f0ac10b37bd5a2a232704bfc3526ef4dd33a3c125b7e8fdfeea"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/norm_stats.json.lock",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/norm_stats.json.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/norm_stats.json.metadata",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/norm_stats.json.metadata",
+      "bytes": 125,
+      "sha256": "30df286deacaab280bbd1400973d5627faf156c73b3461d0d021a0f12e3e38f0"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_40000/params/_METADATA.lock",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_40000/params/_METADATA.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_40000/params/_METADATA.metadata",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_40000/params/_METADATA.metadata",
+      "bytes": 101,
+      "sha256": "1c37c63eac56e8f1071c113276b1bdc6a76ddd4c37ea6bcc38ab2a8a9f793567"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_40000/train_state/_METADATA.lock",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_40000/train_state/_METADATA.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_40000/train_state/_METADATA.metadata",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/.cache/huggingface/download/checkpoint_40000/train_state/_METADATA.metadata",
+      "bytes": 101,
+      "sha256": "4208e84954a4478bea491a236c28939276370bc5e47b0f0c402694fb1db1c0a1"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_10000/_CHECKPOINT_METADATA",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_10000/_CHECKPOINT_METADATA",
+      "bytes": 423,
+      "sha256": "1f13798fc0dd99f437b5e57e7cebda8536ed10af65b35b8af5acd629c3132575"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/__pycache__/processing_action_tokenizer.cpython-311.pyc",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/__pycache__/processing_action_tokenizer.cpython-311.pyc",
+      "bytes": 8758,
+      "sha256": "243434028fff176073237f5e301314414c0a3a8c42d218067939f4692f2b998a"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/metadata.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/metadata.json",
+      "bytes": 447,
+      "sha256": "664d0d552eb7606a51f16b42a59bd803b921bb656e00265f8479a91002920d2c"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processing_action_tokenizer.py",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processing_action_tokenizer.py",
+      "bytes": 6145,
+      "sha256": "6f021ca1f4c1b194ab6fa399d80baf3d642eadb17efb8f73301e4ac401522c20"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processor_config.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processor_config.json",
+      "bytes": 250,
+      "sha256": "463c3e0e5b0d90c004d154d47e5c4ea0bc255f0ad7b3539319ab7cc159531595"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/special_tokens_map.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/special_tokens_map.json",
+      "bytes": 3,
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer.json",
+      "bytes": 386747,
+      "sha256": "a4f52d6fcb67ee5654a032304cd7eddbef9ec9b1483369847a527162b0b8eee6"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer_config.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer_config.json",
+      "bytes": 353,
+      "sha256": "3b5e73ae9f42da5ac9482dcd042c1b90942def5307c0c33a82e5c1368d3f8a2b"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/norm_stats.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_10000/assets/IliaLarchenko/behavior_224_rgb/norm_stats.json",
+      "bytes": 18009212,
+      "sha256": "ccd14a0210fc59b2d2726ba599cc0c4b81347395dd60d2a15b334b28ed15a80b"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_10000/params/_METADATA",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_10000/params/_METADATA",
+      "bytes": 31071,
+      "sha256": "f72565f4393acb5354dc5b9cf2a0d3d73b758c9fb5f6ca43d9c7488efdef7c0b"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_20000/_CHECKPOINT_METADATA",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_20000/_CHECKPOINT_METADATA",
+      "bytes": 423,
+      "sha256": "378800470f12000b1f19024343e8e251df095e887779584b6ffcceedcfaa13ed"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/__pycache__/processing_action_tokenizer.cpython-311.pyc",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/__pycache__/processing_action_tokenizer.cpython-311.pyc",
+      "bytes": 8758,
+      "sha256": "c9dab58643a6ddcc01b58dcad65085e4fa7647e896b5581ef8a3c4a3f8c2a220"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/metadata.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/metadata.json",
+      "bytes": 447,
+      "sha256": "664d0d552eb7606a51f16b42a59bd803b921bb656e00265f8479a91002920d2c"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processing_action_tokenizer.py",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processing_action_tokenizer.py",
+      "bytes": 6145,
+      "sha256": "6f021ca1f4c1b194ab6fa399d80baf3d642eadb17efb8f73301e4ac401522c20"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processor_config.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processor_config.json",
+      "bytes": 250,
+      "sha256": "463c3e0e5b0d90c004d154d47e5c4ea0bc255f0ad7b3539319ab7cc159531595"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/special_tokens_map.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/special_tokens_map.json",
+      "bytes": 3,
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer.json",
+      "bytes": 386747,
+      "sha256": "a4f52d6fcb67ee5654a032304cd7eddbef9ec9b1483369847a527162b0b8eee6"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer_config.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer_config.json",
+      "bytes": 353,
+      "sha256": "3b5e73ae9f42da5ac9482dcd042c1b90942def5307c0c33a82e5c1368d3f8a2b"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/norm_stats.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_20000/assets/IliaLarchenko/behavior_224_rgb/norm_stats.json",
+      "bytes": 18009212,
+      "sha256": "ccd14a0210fc59b2d2726ba599cc0c4b81347395dd60d2a15b334b28ed15a80b"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_20000/params/_METADATA",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_20000/params/_METADATA",
+      "bytes": 31071,
+      "sha256": "f72565f4393acb5354dc5b9cf2a0d3d73b758c9fb5f6ca43d9c7488efdef7c0b"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_30000/_CHECKPOINT_METADATA",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_30000/_CHECKPOINT_METADATA",
+      "bytes": 423,
+      "sha256": "9ed1b59c651fec3f1b5ce676e041fecda81c6f630b1e4280418e743a35cc81b0"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/__pycache__/processing_action_tokenizer.cpython-311.pyc",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/__pycache__/processing_action_tokenizer.cpython-311.pyc",
+      "bytes": 8758,
+      "sha256": "187bae90521c74abb81bdb41b9e16749edd1dfc244fd5ed757ef3f36cec52308"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/metadata.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/metadata.json",
+      "bytes": 447,
+      "sha256": "664d0d552eb7606a51f16b42a59bd803b921bb656e00265f8479a91002920d2c"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processing_action_tokenizer.py",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processing_action_tokenizer.py",
+      "bytes": 6145,
+      "sha256": "6f021ca1f4c1b194ab6fa399d80baf3d642eadb17efb8f73301e4ac401522c20"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processor_config.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processor_config.json",
+      "bytes": 250,
+      "sha256": "463c3e0e5b0d90c004d154d47e5c4ea0bc255f0ad7b3539319ab7cc159531595"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/special_tokens_map.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/special_tokens_map.json",
+      "bytes": 3,
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer.json",
+      "bytes": 386747,
+      "sha256": "a4f52d6fcb67ee5654a032304cd7eddbef9ec9b1483369847a527162b0b8eee6"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer_config.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer_config.json",
+      "bytes": 353,
+      "sha256": "3b5e73ae9f42da5ac9482dcd042c1b90942def5307c0c33a82e5c1368d3f8a2b"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/norm_stats.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_30000/assets/IliaLarchenko/behavior_224_rgb/norm_stats.json",
+      "bytes": 18009212,
+      "sha256": "ccd14a0210fc59b2d2726ba599cc0c4b81347395dd60d2a15b334b28ed15a80b"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_30000/params/_METADATA",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_30000/params/_METADATA",
+      "bytes": 31071,
+      "sha256": "f72565f4393acb5354dc5b9cf2a0d3d73b758c9fb5f6ca43d9c7488efdef7c0b"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_40000/_CHECKPOINT_METADATA",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_40000/_CHECKPOINT_METADATA",
+      "bytes": 423,
+      "sha256": "47f14f3476810f4f111828abc065a43be561a65c91d5500343fac732db0c7ab5"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/__pycache__/processing_action_tokenizer.cpython-311.pyc",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/__pycache__/processing_action_tokenizer.cpython-311.pyc",
+      "bytes": 8758,
+      "sha256": "d0cf4de79a4e1e49854c4704dfb292a0c33d37d5dacf226fa93ff2e4acbeff57"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/metadata.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/metadata.json",
+      "bytes": 447,
+      "sha256": "664d0d552eb7606a51f16b42a59bd803b921bb656e00265f8479a91002920d2c"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processing_action_tokenizer.py",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processing_action_tokenizer.py",
+      "bytes": 6145,
+      "sha256": "6f021ca1f4c1b194ab6fa399d80baf3d642eadb17efb8f73301e4ac401522c20"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processor_config.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/processor_config.json",
+      "bytes": 250,
+      "sha256": "463c3e0e5b0d90c004d154d47e5c4ea0bc255f0ad7b3539319ab7cc159531595"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/special_tokens_map.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/special_tokens_map.json",
+      "bytes": 3,
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer.json",
+      "bytes": 386747,
+      "sha256": "a4f52d6fcb67ee5654a032304cd7eddbef9ec9b1483369847a527162b0b8eee6"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer_config.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/fast_tokenizer/tokenizer_config.json",
+      "bytes": 353,
+      "sha256": "3b5e73ae9f42da5ac9482dcd042c1b90942def5307c0c33a82e5c1368d3f8a2b"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/norm_stats.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_40000/assets/IliaLarchenko/behavior_224_rgb/norm_stats.json",
+      "bytes": 18009212,
+      "sha256": "ccd14a0210fc59b2d2726ba599cc0c4b81347395dd60d2a15b334b28ed15a80b"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_40000/params/_METADATA",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_40000/params/_METADATA",
+      "bytes": 31071,
+      "sha256": "f72565f4393acb5354dc5b9cf2a0d3d73b758c9fb5f6ca43d9c7488efdef7c0b"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/audit/snapshot/checkpoint_40000/train_state/_METADATA",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/audit/snapshot/checkpoint_40000/train_state/_METADATA",
+      "bytes": 110065,
+      "sha256": "26ed31f9b9c3aba89d3147d4a502192ffcca837c473b602d078be3a22352d42e"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/checkpoint-sha256.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/checkpoint-sha256.json",
+      "bytes": 4335,
+      "sha256": "3acc775523d2d92b8f4af36e4b54d92e05c61d3b2a1f709957fe6fdabd43bcea"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/deployed-source-sha256-attempt02.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/deployed-source-sha256-attempt02.json",
+      "bytes": 5475,
+      "sha256": "b8ba2f5b9e63bf631d7d27a796721d952938ef8d4c6e1d98f044c7c065735a26"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/deployed-source-sha256.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/deployed-source-sha256.json",
+      "bytes": 5475,
+      "sha256": "b8ec63e7fc5a5fe2c72de371748587135b86f78ff3b9dcced889b67c22bb5f7e"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/manifest.json",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/manifest.json",
+      "bytes": 3148,
+      "sha256": "b1f2360cd0c06212bfa0763c2d4e61916936a1dc7274ecc3ea1f5336f6228255"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/run_sequential.py",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/run_sequential.py",
+      "bytes": 7501,
+      "sha256": "318c0152e0b3458887e732f0dbe2247f6e77b0bda99a043bae79ecf5e2d807d5"
+    },
+    {
+      "path": "project-evaluations/pi05-15tasks/serve_checkpoint.py",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/serve_checkpoint.py",
+      "bytes": 4951,
+      "sha256": "9cafe9d519736d760af00fe1d4d80d24e83ca64a3d07e66e94b3b20ddb8fd4cb"
+    },
+    {
+      "path": "project-evaluations/task32-rgb/README.md",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/task32-rgb/README.md",
+      "bytes": 1057,
+      "sha256": "6baeaf564c16e96ca2d4971be797ae994225a396480c94ea195721cdaec87c65"
+    },
+    {
+      "path": "project-evaluations/task32-rgb/__pycache__/run_instances.cpython-312.pyc",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/task32-rgb/__pycache__/run_instances.cpython-312.pyc",
+      "bytes": 1671,
+      "sha256": "646282974818e8e12a3a0cbae10d3c5629c0fd3f084a65e44615d322a8d7b3d2"
+    },
+    {
+      "path": "project-evaluations/task32-rgb/run.sh",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/task32-rgb/run.sh",
+      "bytes": 1359,
+      "sha256": "ad10a6d5f58112987e3e67a370495726d73ddd325894f09a365c514c3846caac"
+    },
+    {
+      "path": "project-evaluations/task32-rgb/run_instances.py",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/task32-rgb/run_instances.py",
+      "bytes": 943,
+      "sha256": "5e79aaf86c5d60e28aa7ede870a516075200f212142cf0dba433993be5a694ae"
+    },
+    {
+      "path": "project-evaluations/task32-speed-benchmark/__pycache__/measure.cpython-312.pyc",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/task32-speed-benchmark/__pycache__/measure.cpython-312.pyc",
+      "bytes": 2462,
+      "sha256": "3ef86f640fb4ea3795e676e900e8385e658def7fa1c72c755d5db512bacad1ce"
+    },
+    {
+      "path": "project-evaluations/task32-speed-benchmark/measure.py",
+      "source_path": "/workspace/behavior-1k-solution/evaluations/task32-speed-benchmark/measure.py",
+      "bytes": 1613,
+      "sha256": "02363235022d411e694953e0ea51ffb92ebeb1c8e1c9a7fe9021225cbdddd6f9"
+    },
+    {
+      "path": "evaluation-preparation/benchmark-task32.sh",
+      "source_path": "/workspace/eval-prep/benchmark-task32.sh",
+      "bytes": 1324,
+      "sha256": "23b56a1122beadcf93b1ee77b2693a14f53c9033b8b02c594141cae7caed4d69"
+    },
+    {
+      "path": "evaluation-preparation/ckpt15-metadata.json",
+      "source_path": "/workspace/eval-prep/ckpt15-metadata.json",
+      "bytes": 31071,
+      "sha256": "f72565f4393acb5354dc5b9cf2a0d3d73b758c9fb5f6ca43d9c7488efdef7c0b"
+    },
+    {
+      "path": "evaluation-preparation/download.py",
+      "source_path": "/workspace/eval-prep/download.py",
+      "bytes": 874,
+      "sha256": "615a346c64a29edffebdf3499fce5986ea4277ab82cea55e73b6b5cd42dacb41"
+    },
+    {
+      "path": "evaluation-preparation/evaluate-task32.sh",
+      "source_path": "/workspace/eval-prep/evaluate-task32.sh",
+      "bytes": 1359,
+      "sha256": "ad10a6d5f58112987e3e67a370495726d73ddd325894f09a365c514c3846caac"
+    },
+    {
+      "path": "evaluation-preparation/logs/download.log",
+      "source_path": "/workspace/eval-prep/logs/download.log",
+      "bytes": 1899,
+      "sha256": "167e941511914543fc8fdb2c61a705f0683020cf877494e49beb181c25fa446b"
+    },
+    {
+      "path": "evaluation-preparation/logs/policy-repair.log",
+      "source_path": "/workspace/eval-prep/logs/policy-repair.log",
+      "bytes": 196,
+      "sha256": "ff7d1822b2c0ae8fa5df8df44b0adb5d8942681e83fe67b9eeb564d72af1452c"
+    },
+    {
+      "path": "evaluation-preparation/logs/publish-progress.log",
+      "source_path": "/workspace/eval-prep/logs/publish-progress.log",
+      "bytes": 3724,
+      "sha256": "86d32e208ab7f30c6ce639c89a8de62b3b7154d2de6a3d546f9b7f8e1a9848fd"
+    },
+    {
+      "path": "evaluation-preparation/logs/queued-benchmark.log",
+      "source_path": "/workspace/eval-prep/logs/queued-benchmark.log",
+      "bytes": 2463,
+      "sha256": "506fa7086cea20083cd6a22282635805104bbc56890e72f3ad51c07faa1e397c"
+    },
+    {
+      "path": "evaluation-preparation/logs/setup-2026.log",
+      "source_path": "/workspace/eval-prep/logs/setup-2026.log",
+      "bytes": 14323,
+      "sha256": "4a172cb1ca118733691af882b97e9f43d13cf41d25938c407814e9eecd88919c"
+    },
+    {
+      "path": "evaluation-preparation/logs/setup-policy.log",
+      "source_path": "/workspace/eval-prep/logs/setup-policy.log",
+      "bytes": 11002,
+      "sha256": "1a0de6c2b2f4dfcf2b0b6e1c90491290ff479447ecab9ac3ab9f34aa9cda3502"
+    },
+    {
+      "path": "evaluation-preparation/logs/setup-simulator.log",
+      "source_path": "/workspace/eval-prep/logs/setup-simulator.log",
+      "bytes": 799,
+      "sha256": "77856265f22d53b570196aaee08890a0af2ca2e725e4425e1cd94aa926287fe2"
+    },
+    {
+      "path": "evaluation-preparation/logs/supervisor.log",
+      "source_path": "/workspace/eval-prep/logs/supervisor.log",
+      "bytes": 5644,
+      "sha256": "202ab877252691bf787592ad2caa62eb349b09e963678a0b6155ed18a5678352"
+    },
+    {
+      "path": "evaluation-preparation/logs/system-packages.log",
+      "source_path": "/workspace/eval-prep/logs/system-packages.log",
+      "bytes": 8528,
+      "sha256": "88c074e6db7aa87cdb6c6fd49bede8e31a3014e3c141151bd4b3a30898665bb9"
+    },
+    {
+      "path": "evaluation-preparation/logs/task32-full.log",
+      "source_path": "/workspace/eval-prep/logs/task32-full.log",
+      "bytes": 2654,
+      "sha256": "965ae01d9978f297361d5162e6d07aada42b2d94d557938f56842255234bcbeb"
+    },
+    {
+      "path": "evaluation-preparation/logs/video-upload.log",
+      "source_path": "/workspace/eval-prep/logs/video-upload.log",
+      "bytes": 1078,
+      "sha256": "d0abcc3049b3a2b61765c9881119440b4597d76d5f8f7431e764497d123ba089"
+    },
+    {
+      "path": "evaluation-preparation/plan.json",
+      "source_path": "/workspace/eval-prep/plan.json",
+      "bytes": 725,
+      "sha256": "cc0695d194b9d6a5d841ce33feaaf0f16a174540e4f33bd9197b938ef6e98b79"
+    },
+    {
+      "path": "evaluation-preparation/publish-results.py",
+      "source_path": "/workspace/eval-prep/publish-results.py",
+      "bytes": 1735,
+      "sha256": "895246ec2e043fc7ec5b80c60fd94a3766f56f219030d4a1289ed1b346a3dc19"
+    },
+    {
+      "path": "evaluation-preparation/queue-benchmark.sh",
+      "source_path": "/workspace/eval-prep/queue-benchmark.sh",
+      "bytes": 923,
+      "sha256": "92eec56441438124106a3aa83e1dcecd89229752f8794582c9ee602f11e05a42"
+    },
+    {
+      "path": "evaluation-preparation/setup-2026.sh",
+      "source_path": "/workspace/eval-prep/setup-2026.sh",
+      "bytes": 715,
+      "sha256": "7fe3546bc93303e98f060831534b77021b64799f065c63cbb9aa288ca79828c2"
+    },
+    {
+      "path": "evaluation-preparation/setup-policy.sh",
+      "source_path": "/workspace/eval-prep/setup-policy.sh",
+      "bytes": 475,
+      "sha256": "bc3882e8043cfdebca5e72a94aab95d57c11a69f8fad4f50b19dceccce11bb83"
+    },
+    {
+      "path": "evaluation-preparation/setup-simulator.sh",
+      "source_path": "/workspace/eval-prep/setup-simulator.sh",
+      "bytes": 625,
+      "sha256": "f262d7b6b2856b76848dc9c3055853f9b3988e61b83bc538e3d328c7838ba237"
+    },
+    {
+      "path": "evaluation-preparation/status.json",
+      "source_path": "/workspace/eval-prep/status.json",
+      "bytes": 97,
+      "sha256": "a9a92baccb22c952e27c0f256ce340f00870749206800c8b3f9c2e1a150244ba"
+    },
+    {
+      "path": "evaluation-preparation/supervise.sh",
+      "source_path": "/workspace/eval-prep/supervise.sh",
+      "bytes": 1664,
+      "sha256": "2e25f3f1bbfd2b72a2405cfd211ae373f32d3a0c8d3eaebc0cbc738eaeb1222b"
+    },
+    {
+      "path": "evaluation-preparation/upload-videos.py",
+      "source_path": "/workspace/eval-prep/upload-videos.py",
+      "bytes": 3110,
+      "sha256": "c35154852d777c83f4495705b46fd1e967bb4b8ea22b23b4af0fd452eaa54bb7"
+    },
+    {
+      "path": "simulator-logs/omni.kit.app.log",
+      "source_path": "/root/.nvidia-omniverse/logs/omni.kit.app.log",
+      "bytes": 13916,
+      "sha256": "70abd19224024972401c8693563051271dcea90b85a01c9160d1fb8ccfd6d7ac"
+    },
+    {
+      "path": "simulator-logs/omni.kit.extension.log",
+      "source_path": "/root/.nvidia-omniverse/logs/omni.kit.extension.log",
+      "bytes": 3276640,
+      "sha256": "45dc2469b2a1a9c47227e00358a5db4316f3052ea458c570d52b6fa6e20339d9"
+    },
+    {
+      "path": "simulator-logs/omni.kit.log",
+      "source_path": "/root/.nvidia-omniverse/logs/omni.kit.log",
+      "bytes": 21851,
+      "sha256": "94816e84f611d1acf80884dde9c88177e66833e13996392fa74f1f737f70d1db"
+    },
+    {
+      "path": "simulator-logs/omni.kit.sysinfo.log",
+      "source_path": "/root/.nvidia-omniverse/logs/omni.kit.sysinfo.log",
+      "bytes": 46400,
+      "sha256": "8ec80f7af70f75fdc231705f8bb2d14226bc9c46a51f71d4e321f4b30d9296d2"
+    },
+    {
+      "path": "simulator-logs/omni.processlifetime.log",
+      "source_path": "/root/.nvidia-omniverse/logs/omni.processlifetime.log",
+      "bytes": 136341,
+      "sha256": "0a0169fe15621da79f0195993c8527ac748a3008d5df9f6625fb461bdeb7134e"
+    },
+    {
+      "path": "simulator-logs/omni.replicator.extinfo.log",
+      "source_path": "/root/.nvidia-omniverse/logs/omni.replicator.extinfo.log",
+      "bytes": 142859,
+      "sha256": "607be60d8fab21b3b8576a7a3043f6e6e51220688353f6eb6d0dcfcd828edbe4"
+    },
+    {
+      "path": "simulator-logs/omni.telemetry.transmitter.exit",
+      "source_path": "/root/.nvidia-omniverse/logs/omni.telemetry.transmitter.exit",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ]
+}

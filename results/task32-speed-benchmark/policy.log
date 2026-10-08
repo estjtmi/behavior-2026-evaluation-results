@@ -1,0 +1,40 @@
+INFO:2026-10-06 16:29:30,259:jax._src.xla_bridge:925: Unable to initialize backend 'rocm': module 'jaxlib.xla_extension' has no attribute 'GpuAllocatorConfig'
+INFO:jax._src.xla_bridge:Unable to initialize backend 'rocm': module 'jaxlib.xla_extension' has no attribute 'GpuAllocatorConfig'
+INFO:2026-10-06 16:29:30,260:jax._src.xla_bridge:925: Unable to initialize backend 'tpu': INTERNAL: Failed to open libtpu.so: libtpu.so: cannot open shared object file: No such file or directory
+INFO:jax._src.xla_bridge:Unable to initialize backend 'tpu': INTERNAL: Failed to open libtpu.so: libtpu.so: cannot open shared object file: No such file or directory
+INFO:absl:orbax-checkpoint version: 0.11.13
+INFO:absl:Created BasePyTreeCheckpointHandler: use_ocdbt=True, use_zarr3=False, pytree_metadata_options=PyTreeMetadataOptions(support_rich_types=False), array_metadata_store=<orbax.checkpoint._src.metadata.array_metadata_store.Store object at 0x7031a110a790>
+INFO:absl:Restoring checkpoint from /workspace/checkpoints/ckpt3-10k/params.
+INFO:absl:[thread=MainThread] Failed to get flag value for EXPERIMENTAL_ORBAX_USE_DISTRIBUTED_PROCESS_ID.
+INFO:absl:[process=0] /jax/checkpoint/read/bytes_per_sec: 492.9 MiB/s (total bytes: 6.3 GiB) (time elapsed: 13 seconds) (per-host)
+INFO:absl:Finished restoring checkpoint in 13.18 seconds from /workspace/checkpoints/ckpt3-10k/params.
+INFO:b1k:FAST auxiliary enabled, vocab_size=1024
+INFO:root:Loaded norm stats from /workspace/checkpoints/ckpt3-10k/assets/behavior-1k/2026-challenge-demos
+INFO:root:Loaded norm stats from /workspace/checkpoints/ckpt3-10k/assets/behavior-1k/2026-challenge-demos
+INFO:root:Loaded norm stats from /workspace/checkpoints/ckpt3-10k/assets/behavior-1k/2026-challenge-demos
+INFO:b1k:Successfully accessed correlation matrix via attribute access
+INFO:b1k:Applying shrinkage regularization with beta=0.50
+INFO:b1k:✓ Loaded correlation matrix with shape (960, 960) (beta=0.50 shrinkage applied)
+INFO:b1k:  Memory usage: 3.52 MB
+INFO:root:Loaded correlation matrix for inference
+INFO:omnigibson.learning.utils.network_utils:Starting websocket server on 127.0.0.1:8000...
+INFO:websockets.server:server listening on 127.0.0.1:8000
+INFO:websockets.server:HTTP response sent (200 OK)
+INFO:websockets.server:connection closed
+INFO:websockets.server:connection open
+INFO:omnigibson.learning.utils.network_utils:Connection from ('127.0.0.1', 33372) opened
+INFO:b1k.shared.eval_b1k_wrapper:Policy reset - Task ID: 32, Action horizon: 30
+INFO:root:2026 observation shapes: {'robot_r1::robot_r1:left_realsense_link:Camera:0::rgb': (224, 224, 4), 'robot_r1::robot_r1:right_realsense_link:Camera:0::rgb': (224, 224, 4), 'robot_r1::robot_r1:zed_link:Camera:0::rgb': (224, 224, 4), 'robot_r1::proprio': (256,), 'robot_r1::cam_rel_poses': (21,), 'task_id': (1,)}
+INFO:root:Evaluator task id=[32]; checkpoint task id=32
+INFO:b1k:Computing correction matrix for 4 steps, 32 dims...
+INFO:b1k.shared.eval_b1k_wrapper:📊 Step 100 | Task: 32 | Stage: 0/9 | Predictions: 5
+INFO:b1k.shared.eval_b1k_wrapper:🎯 Prediction #10 | Actions: compressed 26→20 | Inpainting: True
+INFO:b1k.shared.eval_b1k_wrapper:📊 Step 200 | Task: 32 | Stage: 0/9 | Predictions: 10
+INFO:b1k.shared.eval_b1k_wrapper:📊 Step 300 | Task: 32 | Stage: 0/9 | Predictions: 15
+INFO:b1k.shared.eval_b1k_wrapper:Policy reset - Task ID: 32, Action horizon: 30
+INFO:b1k.shared.eval_b1k_wrapper:📊 Step 100 | Task: 32 | Stage: 0/9 | Predictions: 5
+INFO:b1k.shared.eval_b1k_wrapper:🎯 Prediction #10 | Actions: compressed 26→20 | Inpainting: True
+INFO:b1k.shared.eval_b1k_wrapper:📊 Step 200 | Task: 32 | Stage: 0/9 | Predictions: 10
+INFO:b1k.shared.eval_b1k_wrapper:📊 Step 300 | Task: 32 | Stage: 0/9 | Predictions: 15
+INFO:websockets.server:connection closed
+INFO:omnigibson.learning.utils.network_utils:Connection from ('127.0.0.1', 33372) closed

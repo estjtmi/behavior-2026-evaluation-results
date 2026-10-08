@@ -1,0 +1,15 @@
+{"time": "2026-10-08T04:13:20Z", "event": "starting_shared_policy", "checkpoint": "/workspace/checkpoints/pi05-15tasks/checkpoint_40000"}
+{"time": "2026-10-08T04:13:50Z", "event": "policy_ready", "pid": 88812}
+{"time": "2026-10-08T04:13:50Z", "event": "rollout_start", "task": 5, "index": 10, "validation": true, "output": "/workspace/evaluation-results/pi05-15tasks-40000/attempt-02/validation/task-5-public-index-10"}
+{"time": "2026-10-08T04:17:46Z", "event": "rollout_complete", "task": 5, "index": 10, "validation": true, "json": "/workspace/evaluation-results/pi05-15tasks-40000/attempt-02/validation/task-5-public-index-10/json/setting_mousetraps_311_0.json", "video": "/workspace/evaluation-results/pi05-15tasks-40000/attempt-02/validation/task-5-public-index-10/videos/setting_mousetraps_311_0.mp4", "steps": 301, "success": false, "q_score": {"final": 0.0}}
+{"time": "2026-10-08T04:17:46Z", "event": "validation_artifacts_ready_for_review", "output": "/workspace/evaluation-results/pi05-15tasks-40000/attempt-02/validation/task-5-public-index-10"}
+{"time": "2026-10-08T18:58:35Z", "event": "stopped", "reason": "KeyboardInterrupt('Received signal 15')"}
+Traceback (most recent call last):
+  File "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/run_sequential.py", line 124, in <module>
+    try:main()
+        ^^^^^^
+  File "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/run_sequential.py", line 105, in main
+    time.sleep(5)
+  File "/workspace/behavior-1k-solution/evaluations/pi05-15tasks/run_sequential.py", line 120, in stop
+    raise KeyboardInterrupt(f'Received signal {signum}')
+KeyboardInterrupt: Received signal 15
